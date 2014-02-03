@@ -1,0 +1,3795 @@
+[
+  {
+    "business_name": "Sala Thai", 
+    "business_id": "dvQxsFICv2HFMmQX8yI55w", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=217819431753292"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "109441355761595", 
+          "category_list": [
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }, 
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fremont", 
+            "zip": "94538-1436", 
+            "country": "United States", 
+            "longitude": -121.98334515873, 
+            "state": "CA", 
+            "street": "39170 State St", 
+            "latitude": 37.549831200805002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "184520324921683", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Vancouver", 
+            "zip": " V6Z 1X9", 
+            "country": "Canada", 
+            "longitude": -123.12426545219, 
+            "state": "BC", 
+            "street": "888 Burrard Street", 
+            "latitude": 49.282328250742999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "102499703160132", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Detroit", 
+            "zip": "48207", 
+            "country": "United States", 
+            "longitude": -83.043009452435996, 
+            "state": "MI", 
+            "street": "", 
+            "latitude": 42.350449617429
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "115996001754399", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Washington", 
+            "zip": "20009-7588", 
+            "country": "United States", 
+            "longitude": -77.030174403098997, 
+            "state": "DC", 
+            "street": "1301 U St NW", 
+            "latitude": 38.917050151257001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "208485682526419", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Richmond", 
+            "zip": "94806", 
+            "country": "United States", 
+            "longitude": -122.33561455362, 
+            "state": "CA", 
+            "street": "15501 San Pablo Ave Ste F", 
+            "latitude": 37.990067717842003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "159751950725406", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Jupiter", 
+            "zip": "33477-5101", 
+            "country": "United States", 
+            "longitude": -80.078568941456993, 
+            "state": "FL", 
+            "street": "103 S Us Highway 1 Ste B6", 
+            "latitude": 26.932909275914
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "218082021546332", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Rancho Cordova", 
+            "zip": "95670", 
+            "country": "United States", 
+            "longitude": -121.28505225658, 
+            "state": "CA", 
+            "street": "3101 Zinfandel Dr Ste 148", 
+            "latitude": 38.587826968946999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "210581392287186", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85028-3214", 
+            "country": "United States", 
+            "longitude": -112.01399036893, 
+            "state": "AZ", 
+            "street": "10880 N 32nd St Ste 29", 
+            "latitude": 33.585732517037997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "118031354888954", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Oklahoma City", 
+            "zip": "73106-3623", 
+            "country": "United States", 
+            "longitude": -97.537499516577, 
+            "state": "OK", 
+            "street": "1614 NW 23rd St", 
+            "latitude": 35.493035997078003
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "114436698580174", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "San Diego", 
+            "zip": "92115-3936", 
+            "country": "United States", 
+            "longitude": -117.06448441317001, 
+            "state": "CA", 
+            "street": "6161 El Cajon Blvd Ste A", 
+            "latitude": 32.761235207318002
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai", 
+          "id": "123784917659784", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Belleville", 
+            "zip": "62221", 
+            "country": "United States", 
+            "longitude": -89.970211295675, 
+            "state": "IL", 
+            "street": "1229 lebanon Avenue", 
+            "latitude": 38.529981221568001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "158183220989228", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Glendale", 
+            "zip": "85303", 
+            "country": "United States", 
+            "longitude": -112.218058838, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 33.539071670200002
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "158238170881921", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Airway Heights", 
+            "zip": "99001", 
+            "country": "United States", 
+            "longitude": -117.58984899814, 
+            "state": "WA", 
+            "street": "12924 W. Sunset Hwy. suite 104", 
+            "latitude": 47.643130169528
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "168006943262301", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Albuquerque", 
+            "zip": "87108", 
+            "country": "United States", 
+            "longitude": -106.603579637, 
+            "state": "NM", 
+            "street": "3619 Copper Ave Ne", 
+            "latitude": 35.080356371299999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "135576866506212", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Covington", 
+            "zip": "70433", 
+            "country": "United States", 
+            "longitude": -90.097114843770001, 
+            "state": "LA", 
+            "street": "315 N. Vermont St.", 
+            "latitude": 30.475671188795001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai II", 
+          "id": "213850161977928", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fremont", 
+            "zip": "94538", 
+            "country": "United States", 
+            "longitude": -121.94778475488, 
+            "state": "CA", 
+            "street": "44800 South Grimmer Blvd.", 
+            "latitude": 37.503038973953998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "120960484585005", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Jacksonville", 
+            "zip": "32246-1846", 
+            "country": "United States", 
+            "longitude": -81.538285790911004, 
+            "state": "FL", 
+            "street": "10769 Beach Blvd Ste 10", 
+            "latitude": 30.287340332083001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "113470215354139", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bethesda", 
+            "zip": "20814-3011", 
+            "country": "United States", 
+            "longitude": -77.096623101397995, 
+            "state": "MD", 
+            "street": "4828 Cordell Ave", 
+            "latitude": 38.990761986255997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Kitchen", 
+          "id": "185233138203300", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Salt Lake City", 
+            "zip": "84101", 
+            "country": "United States", 
+            "longitude": -111.89571899999, 
+            "state": "UT", 
+            "street": "679 South 200 West", 
+            "latitude": 40.754719111028997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "110135072379415", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fayetteville", 
+            "zip": "72701", 
+            "country": "United States", 
+            "longitude": -94.164850450898996, 
+            "state": "AR", 
+            "street": "701 S. School", 
+            "latitude": 36.055494427203001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "180625631971638", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Goodyear", 
+            "zip": "85338", 
+            "country": "United States", 
+            "longitude": -112.3596515541, 
+            "state": "AZ", 
+            "street": "432 N. Litchfield Rd # 304", 
+            "latitude": 33.452112511511999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Windsor", 
+          "id": "286993871395571", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Windsor", 
+            "zip": "80550", 
+            "country": "United States", 
+            "longitude": -104.920364754, 
+            "state": "CO", 
+            "street": "1293 Main Street #3", 
+            "latitude": 40.478804740400001
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai", 
+          "id": "111682088867556", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Louisville", 
+            "zip": "40291", 
+            "country": "United States", 
+            "longitude": -85.575782305499999, 
+            "state": "KY", 
+            "street": "8125 Bardstown Rd", 
+            "latitude": 38.129341781900003
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Kitchen", 
+          "id": "169437276592324", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Singapore", 
+            "zip": "138588", 
+            "country": "Singapore", 
+            "longitude": 103.790915183, 
+            "street": "The Metropolis #01-04, Tower 1, 9 North Buona Vista Drive", 
+            "latitude": 1.30666122449
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "144271238920716", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Madison", 
+            "zip": "53714", 
+            "country": "United States", 
+            "longitude": -89.333835480499999, 
+            "state": "WI", 
+            "street": "36 South Fair Oaks Avenue", 
+            "latitude": 43.098720586752997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant, Salut", 
+          "id": "140412466031836", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Kota Kinabalu", 
+            "zip": "88450", 
+            "country": "Malaysia", 
+            "longitude": 116.15461998659001, 
+            "state": "", 
+            "street": "", 
+            "latitude": 6.0927771537849003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "170497483003742", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Los Angeles", 
+            "zip": "90012", 
+            "country": "United States", 
+            "longitude": -118.237583886, 
+            "state": "CA", 
+            "street": "", 
+            "latitude": 34.062219742099998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "175529595792890", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Lake Orion", 
+            "zip": "48362", 
+            "country": "United States", 
+            "longitude": -83.239192153700003, 
+            "state": "MI", 
+            "street": "335 s broadway st.", 
+            "latitude": 42.779525669500003
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai", 
+          "id": "143591965690852", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }, 
+            {
+              "id": "214976388519648", 
+              "name": "Cantonese Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "East Kilbride", 
+            "zip": "G74 5QE", 
+            "country": "United Kingdom", 
+            "longitude": -4.2266596058303998, 
+            "state": "", 
+            "street": "1 St. James Court", 
+            "latitude": 55.760253312769002
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai", 
+          "id": "158805957472900", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Eumundi", 
+            "zip": "4562", 
+            "country": "Australia", 
+            "longitude": 152.95089736899999, 
+            "state": "QLD", 
+            "street": "102 Memorial Drive", 
+            "latitude": -26.475384059300001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai II", 
+          "id": "111724862196027", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Sterling Heights", 
+            "zip": "48310-5962", 
+            "country": "United States", 
+            "longitude": -83.079063470158005, 
+            "state": "MI", 
+            "street": "2751 E 14 Mile Rd", 
+            "latitude": 42.535506523213002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "135477199847049", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Hamburg", 
+            "zip": "20095", 
+            "country": "Germany", 
+            "longitude": 10.001974592442, 
+            "state": "", 
+            "street": "Brandsende 6", 
+            "latitude": 53.553798439773999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "132645710142382", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Portland", 
+            "zip": "04103", 
+            "country": "United States", 
+            "longitude": -70.287408992300001, 
+            "state": "ME", 
+            "street": "1363 Washington Avenue", 
+            "latitude": 43.699298835299999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "389687477792579", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }, 
+            {
+              "id": "176007949109829", 
+              "name": "Buffet Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Duluth", 
+            "zip": "55803", 
+            "country": "United States", 
+            "longitude": -92.081546470600003, 
+            "state": "MN", 
+            "street": "4023 Woodland Avenue", 
+            "latitude": 46.850772269899998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "250643538343152", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Troy", 
+            "zip": "48084", 
+            "country": "United States", 
+            "longitude": -83.184571292000001, 
+            "state": "MI", 
+            "street": "", 
+            "latitude": 42.548054352999998
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant and Spa", 
+          "id": "460233854046559", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }, 
+            {
+              "id": "200814353265561", 
+              "name": "Spa"
+            }
+          ], 
+          "location": {
+            "city": "Dar es Salaam", 
+            "zip": "", 
+            "country": "Tanzania", 
+            "longitude": 39.279909687805002, 
+            "state": "", 
+            "street": "Msasani Rd. , near French school", 
+            "latitude": -6.7660280266557997
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Claremont", 
+          "id": "383188681827214", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Claremont", 
+            "zip": "6010", 
+            "country": "Australia", 
+            "longitude": 115.787630351, 
+            "state": "WA", 
+            "street": "235 Stirling Hwy", 
+            "latitude": -31.9819805608
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Bua Thai Cuisine", 
+          "id": "441880302591939", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Chicago", 
+            "zip": "60616", 
+            "country": "United States", 
+            "longitude": -87.631854445299993, 
+            "state": "IL", 
+            "street": "2002 s wentworth ave unit 103", 
+            "latitude": 41.854998280899999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "221246694574402", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Male", 
+            "zip": "", 
+            "country": "Maldives", 
+            "longitude": 73.513490706780999, 
+            "street": "", 
+            "latitude": 4.1766634925668997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "134424773416559", 
+          "category_list": [
+            {
+              "id": "165679780146824", 
+              "name": "Food & Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Da Nang", 
+            "zip": "", 
+            "country": "Vietnam", 
+            "longitude": 108.219834936, 
+            "street": "", 
+            "latitude": 16.0755092534
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai", 
+          "id": "164776106919338", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Eindhoven", 
+            "zip": "5615 HC", 
+            "country": "Netherlands", 
+            "longitude": 5.4735598358911002, 
+            "state": "", 
+            "street": "Staringstraat 31", 
+            "latitude": 51.432022668936
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "154391737943491", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "London", 
+            "zip": "", 
+            "country": "United Kingdom", 
+            "longitude": -0.029992958363600001, 
+            "state": "", 
+            "street": "", 
+            "latitude": 51.810564946600003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "111471885579571", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fremantle", 
+            "zip": "6160", 
+            "country": "Australia", 
+            "longitude": 115.74872199284999, 
+            "state": "WA", 
+            "street": "Norfolk St", 
+            "latitude": -32.057317172840001
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "245988468831200", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bournemouth", 
+            "zip": "BH7 6DS", 
+            "country": "United Kingdom", 
+            "longitude": -1.8185444772699999, 
+            "state": "", 
+            "street": "1066 Christchurch Road,Boscombe", 
+            "latitude": 50.733695141799998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Phad Thai", 
+          "id": "132261080165216", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Jacksonville Beach", 
+            "zip": "32250", 
+            "country": "United States", 
+            "longitude": -81.395777916794003, 
+            "state": "FL", 
+            "street": "1716 Third Street North", 
+            "latitude": 30.304365390040999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant - Elements", 
+          "id": "197101033660478", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tsim Sha Tsui", 
+            "zip": "", 
+            "country": "Hong Kong", 
+            "longitude": 114.16083840724001, 
+            "street": "Shop 1028A, Elements, 1 Austin Road West", 
+            "latitude": 22.304124866990001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "344026979026994", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Paris", 
+            "zip": "", 
+            "country": "France", 
+            "longitude": 2.3625482139599998, 
+            "state": "", 
+            "street": "", 
+            "latitude": 48.823821462399998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "207509005954291", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Kajang", 
+            "zip": "", 
+            "country": "Malaysia", 
+            "longitude": 101.77689491651, 
+            "state": "", 
+            "street": "\u611b\u4e45\u898b\u4eba\u5fc3", 
+            "latitude": 2.9785544531783001
+          }
+        }, 
+        {
+          "category": "Club", 
+          "name": "SALA THAI", 
+          "id": "83527234593", 
+          "category_list": [
+            {
+              "id": "2101", 
+              "name": "Club"
+            }
+          ], 
+          "location": {
+            "city": "Thiene", 
+            "zip": "36016", 
+            "country": "Italy", 
+            "longitude": 11.4687482358, 
+            "state": "", 
+            "street": "via nogarette 25", 
+            "latitude": 45.688258717399997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "199132346770614", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Dresden", 
+            "zip": "01067", 
+            "country": "Germany", 
+            "longitude": 13.738505824200001, 
+            "state": "", 
+            "street": "Dr.-K\u00fclz-Ring 17", 
+            "latitude": 51.0475359283
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai", 
+          "id": "247173571966727", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fukuoka-shi", 
+            "zip": "", 
+            "country": "Japan", 
+            "longitude": 130.41518743399999, 
+            "state": "Fukuoka", 
+            "street": "", 
+            "latitude": 33.588263446799999
+          }
+        }, 
+        {
+          "category": "Bar", 
+          "name": "sala thai", 
+          "id": "141662455847", 
+          "category_list": [
+            {
+              "id": "110290705711626", 
+              "name": "Bar"
+            }
+          ], 
+          "location": {
+            "city": "Honolulu", 
+            "zip": "96817", 
+            "country": "United States", 
+            "longitude": -157.85841059200001, 
+            "state": "HI", 
+            "street": "1333 nuuanu", 
+            "latitude": 21.313765281399998
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant Berlin", 
+          "id": "327881525216", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Berlin", 
+            "zip": "10247", 
+            "country": "Germany", 
+            "longitude": 13.4684515847, 
+            "state": "", 
+            "street": "Frankfurter Allee 73 (Plaza)", 
+            "latitude": 52.515142582700001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "176890622386257", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "latitude": 5.9666198378894002, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 116.06443194683
+          }
+        }, 
+        {
+          "category": "Professional services", 
+          "name": "Sala Thai massage", 
+          "id": "554123828007508", 
+          "category_list": [
+            {
+              "id": "176831012360626", 
+              "name": "Professional Services"
+            }
+          ], 
+          "location": {
+            "city": "Stavanger", 
+            "zip": "", 
+            "country": "Norway", 
+            "longitude": 5.7368765722245003, 
+            "state": "", 
+            "street": "Bergalandsgate 2 est  of Be Bird shop", 
+            "latitude": 58.970013349235998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "121846241203532", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Hamburg", 
+            "zip": "20457", 
+            "country": "Germany", 
+            "longitude": 9.9930856580681997, 
+            "state": "", 
+            "street": "Am Kaiserkai 1", 
+            "latitude": 53.540979190773001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "265586033559483", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Dar es Salaam", 
+            "zip": "", 
+            "country": "Tanzania", 
+            "longitude": 39.280395079900003, 
+            "state": "", 
+            "street": "", 
+            "latitude": -6.7681863223500001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai V", 
+          "id": "729704033713234", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Disco", 
+            "zip": "48315", 
+            "country": "United States", 
+            "longitude": -82.974905540400002, 
+            "state": "MI", 
+            "street": "", 
+            "latitude": 42.632669354900003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "160406220670949", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Potsdam", 
+            "zip": "14467", 
+            "country": "Germany", 
+            "longitude": 13.054373637099999, 
+            "state": "", 
+            "street": "Dortustr. 71c", 
+            "latitude": 52.4022192069
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "155448927841817", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "M\u00fcnster", 
+            "zip": "", 
+            "country": "Germany", 
+            "longitude": 7.6303017928600001, 
+            "state": "", 
+            "street": "", 
+            "latitude": 51.961968857199999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "159182404141013", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 27.915637917400002, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 34.348688699599997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "111489228891351", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Irving", 
+            "zip": "75038-6425", 
+            "country": "United States", 
+            "longitude": -96.959151000000006, 
+            "state": "TX", 
+            "street": "4030 N Macarthur Blvd Ste 200", 
+            "latitude": 32.860666000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "143727912325785", 
+          "category_list": [
+            {
+              "id": "200253979990258", 
+              "name": "Convenience Store"
+            }, 
+            {
+              "id": "192111490806699", 
+              "name": "Florist"
+            }, 
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Beaverton", 
+            "zip": "97005-2134", 
+            "country": "United States", 
+            "longitude": -122.807129, 
+            "state": "OR", 
+            "street": "12755 SW Broadway St", 
+            "latitude": 45.487761999999996
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Tha\u00ef", 
+          "id": "205332219530504", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Bordeaux", 
+            "zip": "", 
+            "country": "France", 
+            "longitude": -0.58255360991600003, 
+            "state": "", 
+            "street": "", 
+            "latitude": 44.841212919299998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "143768345666958", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Stirling", 
+            "zip": "5152", 
+            "country": "Australia", 
+            "longitude": 138.715633604, 
+            "state": "SA", 
+            "street": "14 Druids Wlk", 
+            "latitude": -35.005276846100003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e28\u0e32\u0e25\u0e32\u0e41\u0e01\u0e49\u0e27\u0e01\u0e39\u0e48", 
+          "id": "159358777444993", 
+          "category_list": [
+            {
+              "id": "128232937246338", 
+              "name": "Travel & Transportation"
+            }
+          ], 
+          "location": {
+            "latitude": 17.887322716517001, 
+            "street": "\u0e2a\u0e21\u0e31\u0e04\u0e04\u0e35", 
+            "zip": "", 
+            "longitude": 102.78183357213
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai 3", 
+          "id": "193526284013528", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Gent", 
+            "zip": "9000", 
+            "country": "Belgium", 
+            "longitude": 3.7213596181700002, 
+            "state": "", 
+            "street": "Hooiaard 5", 
+            "latitude": 51.055460715800002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "178435165527599", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "", 
+            "country": "Thailand", 
+            "longitude": 100.51319454999999, 
+            "state": "", 
+            "street": "", 
+            "latitude": 13.7296777059
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "335715563228033", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Aarhus", 
+            "zip": "8000", 
+            "country": "Denmark", 
+            "longitude": 10.197212770399, 
+            "state": "", 
+            "street": "Vesterbrogade 10", 
+            "latitude": 56.157919537546
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "156544891034457", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Geneva", 
+            "zip": "1202", 
+            "country": "Switzerland", 
+            "longitude": 6.1317044509700001, 
+            "state": "", 
+            "street": "rue Maurice-Braillard 18", 
+            "latitude": 46.2202625798
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala-Thai", 
+          "id": "141510279235605", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Aarhus", 
+            "zip": "8000", 
+            "country": "Denmark", 
+            "longitude": 10.197176407000001, 
+            "state": "", 
+            "street": "Vesterbrogade 10", 
+            "latitude": 56.158026013099999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai , Harbour City KK", 
+          "id": "105343169557385", 
+          "category_list": [
+            {
+              "id": "109527622457518", 
+              "name": "Shopping Mall"
+            }, 
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "latitude": 5.9666285444199998, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 116.064402794
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Restaurant", 
+          "id": "126504204066099", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Leeds", 
+            "zip": "LS6 4DH", 
+            "country": "United Kingdom", 
+            "longitude": -1.57664007182, 
+            "state": "", 
+            "street": "13 - 17 Shaw Lane", 
+            "latitude": 53.825760274399997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thong", 
+          "id": "134923096553247", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Cambridge", 
+            "zip": "CB3 9EY", 
+            "country": "United Kingdom", 
+            "longitude": 0.11356612852799999, 
+            "state": "", 
+            "street": "35 Newnham Road", 
+            "latitude": 52.199141713400003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Tomyam", 
+          "id": "544089428950534", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Sitiawan", 
+            "zip": "", 
+            "country": "Malaysia", 
+            "longitude": 100.668805963, 
+            "state": "", 
+            "street": "", 
+            "latitude": 4.1968633284600001
+          }
+        }, 
+        {
+          "category": "Spas/beauty/personal care", 
+          "name": "Sala Thai Spa", 
+          "id": "326708944094487", 
+          "category_list": [
+            {
+              "id": "139225689474222", 
+              "name": "Spa, Beauty & Personal Care"
+            }
+          ], 
+          "location": {
+            "city": "D\u00fcsseldorf", 
+            "zip": "40219", 
+            "country": "Germany", 
+            "longitude": 6.7643847992400001, 
+            "state": "", 
+            "street": "Loretto Stra\u00dfe 56", 
+            "latitude": 51.2127584992
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "184176234943971", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Gothenburg", 
+            "zip": "", 
+            "country": "Sweden", 
+            "longitude": 11.873737478809, 
+            "state": "", 
+            "street": "", 
+            "latitude": 57.680134469603999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "122345681170770", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Stockholm", 
+            "zip": "", 
+            "country": "Sweden", 
+            "longitude": 18.058486890200001, 
+            "state": "", 
+            "street": "", 
+            "latitude": 59.331019729399998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "128622307187953", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tugun", 
+            "zip": "4224", 
+            "country": "Australia", 
+            "longitude": 153.49203734700001, 
+            "state": "QLD", 
+            "street": "Shop 10A 496 Gold Coast Hwy", 
+            "latitude": -28.141704636099998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai", 
+          "id": "118172941573024", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Gr\u00e4felfing", 
+            "zip": "82166", 
+            "country": "Germany", 
+            "longitude": 11.4475459522, 
+            "state": "", 
+            "street": "Kleinhaderner Weg 2", 
+            "latitude": 48.125262700199997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Cafe", 
+          "id": "120008608011451", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Attleboro", 
+            "zip": "02703-3111", 
+            "country": "United States", 
+            "longitude": -71.276648248800001, 
+            "state": "MA", 
+            "street": "80 Oneil Blvd", 
+            "latitude": 41.940967615700004
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Thai Northlake", 
+          "id": "249438417043", 
+          "category_list": [
+            {
+              "id": "200742186618963", 
+              "name": "Vegetarian & Vegan Restaurant"
+            }, 
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }, 
+            {
+              "id": "176007949109829", 
+              "name": "Buffet Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Northlake", 
+            "zip": "60164", 
+            "country": "United States", 
+            "longitude": -87.903074000000004, 
+            "state": "IL", 
+            "street": "103 N. Wolf Rd.", 
+            "latitude": 41.909601000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Restoran Sala Thai, Kajang", 
+          "id": "413052935402324", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Kajang", 
+            "zip": "", 
+            "country": "Malaysia", 
+            "longitude": 101.77685177399999, 
+            "state": "", 
+            "street": "", 
+            "latitude": 2.9786700236799999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Kirra", 
+          "id": "142474625806266", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Coolangatta", 
+            "zip": "", 
+            "country": "Australia", 
+            "longitude": 153.52985560299999, 
+            "state": "QLD", 
+            "street": "", 
+            "latitude": -28.1680126079
+          }
+        }, 
+        {
+          "category": "Food/grocery", 
+          "name": "Sala-Thai Lebensmittel", 
+          "id": "191817427634201", 
+          "category_list": [
+            {
+              "id": "169207329791658", 
+              "name": "Grocery Store"
+            }, 
+            {
+              "id": "128157407253652", 
+              "name": "Fruit & Vegetable Store"
+            }, 
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Z\u00fcrich", 
+            "zip": "8004", 
+            "country": "Switzerland", 
+            "longitude": 8.5279205999999999, 
+            "state": "", 
+            "street": "Zwinglistrasse 32, Z\u00fcrich", 
+            "latitude": 47.378762199999997
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala-Thai Restaurant", 
+          "id": "119341111467977", 
+          "category_list": [
+            {
+              "id": "197871390225897", 
+              "name": "Cafe"
+            }, 
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "M\u00e4nnedorf", 
+            "zip": "8708", 
+            "country": "Switzerland", 
+            "longitude": 8.5279539824199997, 
+            "state": "", 
+            "street": "Alte Landstrasse 1", 
+            "latitude": 47.3787527191
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "113883945309796", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Benicia", 
+            "zip": "94510-3263", 
+            "country": "United States", 
+            "longitude": -122.158035, 
+            "state": "CA", 
+            "street": "807 1st St", 
+            "latitude": 38.051017999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Cuisine", 
+          "id": "114777041915553", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Temecula", 
+            "zip": "92592-6831", 
+            "country": "United States", 
+            "longitude": -117.115906, 
+            "state": "CA", 
+            "street": "31333 Temecula Pkwy", 
+            "latitude": 33.475811
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Cafe", 
+          "id": "116143435079899", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }, 
+            {
+              "id": "197871390225897", 
+              "name": "Cafe"
+            }
+          ], 
+          "location": {
+            "city": "Arlington", 
+            "zip": "22202-4907", 
+            "country": "United States", 
+            "longitude": -77.060012999999998, 
+            "state": "VA", 
+            "street": "1100 S Hayes St", 
+            "latitude": 38.863177999999998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurante e Bar", 
+          "id": "145743072161123", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Natal", 
+            "zip": "59094100", 
+            "country": "Brazil", 
+            "longitude": -35.181269999999998, 
+            "state": "", 
+            "street": "Av Praia Ponta Negra, 9012 ltr C", 
+            "latitude": -5.8718729411765
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant", 
+          "id": "159624990738590", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Ashburn", 
+            "zip": "20147-6981", 
+            "country": "United States", 
+            "longitude": -77.460601999999994, 
+            "state": "VA", 
+            "street": "44640 Waxpool Rd", 
+            "latitude": 39.013959
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Restoran Sala Thai, Sg.Chua", 
+          "id": "198395230318412", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Kajang", 
+            "zip": "", 
+            "country": "Malaysia", 
+            "longitude": 101.776898338, 
+            "state": "", 
+            "street": "", 
+            "latitude": 2.97867190341
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Maaruay", 
+          "id": "180590905316760", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "latitude": 66.430419796400002, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 20.6073651353
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Cuisine", 
+          "id": "135218749838519", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Ottawa", 
+            "zip": "K1V7T4", 
+            "country": "Canada", 
+            "longitude": -75.663207097099999, 
+            "state": "ON", 
+            "street": "2666 Alta Vista Dr", 
+            "latitude": 45.373271603900001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Charlies Sala-Thai Restaurant", 
+          "id": "179009612117784", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Canberra", 
+            "zip": "2900", 
+            "country": "Australia", 
+            "longitude": 149.06620400599999, 
+            "state": "ACT", 
+            "street": "Unit 5, 21 Reed Street North, Greenway", 
+            "latitude": -35.418175642900003
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Thaipavillon (Sala Thai) Gr\u00e4felfing", 
+          "id": "166906553371837", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Gr\u00e4felfing", 
+            "zip": "82166", 
+            "country": "Germany", 
+            "longitude": 11.447498018799999, 
+            "state": "", 
+            "street": "Kleinhaderner Weg 2", 
+            "latitude": 48.125216180199999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Restaurant Sala Thai", 
+          "id": "142203012490764", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Berlin", 
+            "zip": "10247", 
+            "country": "Germany", 
+            "longitude": 13.468435060299999, 
+            "state": "", 
+            "street": "Frankfurter Allee 71-77", 
+            "latitude": 52.515093353300003
+          }
+        }, 
+        {
+          "category": "Spas/beauty/personal care", 
+          "name": "Sala-Thai Wellness, Inh. Panumas Hipphimai", 
+          "id": "121008781331450", 
+          "category_list": [
+            {
+              "id": "139225689474222", 
+              "name": "Spa, Beauty & Personal Care"
+            }
+          ], 
+          "location": {
+            "city": "Duisburg", 
+            "zip": "47051", 
+            "country": "Germany", 
+            "longitude": 6.7730165367200001, 
+            "state": "", 
+            "street": "Mercatorstrasse 6", 
+            "latitude": 51.4316364405
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Little Sala Thai", 
+          "id": "375623072661", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Oklahoma City", 
+            "zip": "73114", 
+            "country": "United States", 
+            "longitude": -97.538605000000004, 
+            "state": "OK", 
+            "street": "1428 W. Britton Rd", 
+            "latitude": 35.565308000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Thai Restaurant\u5713\u65b9", 
+          "id": "215386891861196", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Kowloon", 
+            "zip": "", 
+            "country": "Hong Kong", 
+            "longitude": 114.160895485, 
+            "street": "", 
+            "latitude": 22.304528214899999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Thai Sala", 
+          "id": "515834801816042", 
+          "category_list": [
+            {
+              "id": "139433292785470", 
+              "name": "Caterer"
+            }, 
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }, 
+            {
+              "id": "144362285623268", 
+              "name": "Food Stand"
+            }
+          ], 
+          "location": {
+            "city": "Haslemere", 
+            "zip": "GU27 1DH", 
+            "country": "United Kingdom", 
+            "longitude": -0.69999999999999996, 
+            "state": "", 
+            "street": "6 Meadow Vale", 
+            "latitude": 51.083300000000001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c", 
+          "id": "177944058908789", 
+          "category_list": [
+            {
+              "id": "161422927240513", 
+              "name": "Government Organization"
+            }
+          ], 
+          "location": {
+            "latitude": 16.439554131084002, 
+            "street": "\u0e1e\u0e23\u0e30\u0e43\u0e2b\u0e0d\u0e48 \u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c", 
+            "zip": "", 
+            "longitude": 101.15402500160999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Thai Sala Pavilion", 
+          "id": "223732434337190", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Ballarat", 
+            "zip": "3350", 
+            "country": "Australia", 
+            "longitude": 143.85069100306001, 
+            "state": "VIC", 
+            "street": "632 Sturt Street", 
+            "latitude": -37.561052355099001
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "TIPAROS THAI KITCHEN ( Sala Thai under new name)", 
+          "id": "130447100405265", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Richmond", 
+            "zip": "94806", 
+            "country": "United States", 
+            "longitude": -122.33561254, 
+            "state": "CA", 
+            "street": "15501 san pablo ave #F ", 
+            "latitude": 37.9901817525
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23", 
+          "id": "198016576888379", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 17.154087898842, 
+            "street": "\u0e40\u0e0b\u0e40\u0e27\u0e48\u0e19\u0e2b\u0e19\u0e49\u0e32\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23 \u0e16.\u0e2a\u0e38\u0e02\u0e40\u0e01\u0e29\u0e21 \u0e15.\u0e18\u0e32\u0e15\u0e38\u0e40\u0e0a\u0e34\u0e07 \u0e2d.\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e08.\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23", 
+            "zip": "", 
+            "longitude": 104.13457631762
+          }
+        }, 
+        {
+          "category": "Business services", 
+          "name": "Sala Nuad Thai", 
+          "id": "573620376050756", 
+          "category_list": [
+            {
+              "id": "132328993501399", 
+              "name": "Counseling & Mental Health"
+            }
+          ], 
+          "location": {
+            "city": "Bad Pyrmont", 
+            "zip": "31812", 
+            "country": "Germany", 
+            "longitude": 9.2325123999999992, 
+            "state": "", 
+            "street": "Bathildisstra\u00dfe 11", 
+            "latitude": 51.983417899999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Restaurang Sala Thai", 
+          "id": "169530469748798", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Stockholm", 
+            "zip": "111 20", 
+            "country": "Sweden", 
+            "longitude": 18.058643469315001, 
+            "state": "", 
+            "street": "", 
+            "latitude": 59.331109189919999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Bangkok Sala Cafe", 
+          "id": "150517091636452", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Farmington Hills", 
+            "zip": "48334", 
+            "country": "United States", 
+            "longitude": -83.360582654590999, 
+            "state": "MI", 
+            "street": "27903 ORCHARD LAKE ROAD", 
+            "latitude": 42.499978578102002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Cafe Ala Thai", 
+          "id": "201630623212345", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "latitude": 3.1889310406861, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 101.75908882943
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "RestaurantSalaThai", 
+          "id": "383262905061113", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Lausen", 
+            "zip": "4415", 
+            "country": "Switzerland", 
+            "longitude": 7.7645639177400003, 
+            "state": "", 
+            "street": "Hauptstrasse 144", 
+            "latitude": 47.470230663700001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e2a\u0e31\u0e01", 
+          "id": "248737921928163", 
+          "category_list": [
+            {
+              "id": "188662441155211", 
+              "name": "Community & Government"
+            }
+          ], 
+          "location": {
+            "latitude": 14.5565364341, 
+            "street": "\u0e40\u0e23\u0e34\u0e07\u0e23\u0e32\u0e07", 
+            "zip": "", 
+            "longitude": 100.77823532799999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Classic Restaurant", 
+          "id": "173720109326615", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Alor Setar", 
+            "zip": "05400", 
+            "country": "Malaysia", 
+            "longitude": 100.37643212243999, 
+            "state": "", 
+            "street": "Alor Mengkudu", 
+            "latitude": 6.0969881760145004
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e02\u0e32\u0e27", 
+          "id": "335108399858216", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 15.1750861511, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 100.201535355
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e07\u0e2b\u0e34\u0e19", 
+          "id": "203733833026916", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 19.571300961799999, 
+            "street": "\u0e15.\u0e1b\u0e48\u0e32\u0e2b\u0e38\u0e48\u0e07", 
+            "zip": "57120", 
+            "longitude": 99.687894997000001
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala Bar", 
+          "id": "364884250218824", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }, 
+            {
+              "id": "119869574758000", 
+              "name": "Tapas Bar & Restaurant"
+            }, 
+            {
+              "id": "174201535963762", 
+              "name": "Asian Fusion Restaurant"
+            }
+          ], 
+          "location": {
+            "latitude": 5.2086721207400002, 
+            "zip": "2188", 
+            "street": "", 
+            "longitude": 73.084914894400001, 
+            "located_in": 289196141106677
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1e\u0e31\u0e07\u0e07\u0e32", 
+          "id": "204337639585625", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 8.4403580774167999, 
+            "street": "\u0e19\u0e19", 
+            "zip": "", 
+            "longitude": 98.518814270044004
+          }
+        }, 
+        {
+          "category": "Health/medical/pharmacy", 
+          "name": "Sala Som", 
+          "id": "212484035504660", 
+          "category_list": [
+            {
+              "id": "134091706658568", 
+              "name": "Health Agency"
+            }, 
+            {
+              "id": "132328993501399", 
+              "name": "Counseling & Mental Health"
+            }, 
+            {
+              "id": "200742186618963", 
+              "name": "Vegetarian & Vegan Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "10500", 
+            "country": "Thailand", 
+            "longitude": 100.538091847, 
+            "state": "", 
+            "street": "35/4 Soi Yommarat.", 
+            "latitude": 13.7269281351
+          }
+        }, 
+        {
+          "category": "School", 
+          "name": "Sala Silom Thai Language", 
+          "id": "127368873953713", 
+          "category_list": [
+            {
+              "id": "365182493518892", 
+              "name": "School"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "10500", 
+            "country": "Thailand", 
+            "longitude": 100.5321838, 
+            "state": "", 
+            "street": "Silom 64 Building, 6th Floor, Silom Road, Bangrak", 
+            "latitude": 13.7278425
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "\u30bf\u30a4\u5c4b\u30bd\u30f3\u30bf\u30ca(sala SONTANA)", 
+          "id": "164294110269257", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Setagaya-ku", 
+            "zip": "156-0052", 
+            "country": "Japan", 
+            "longitude": 139.63588774508, 
+            "state": "Tokyo", 
+            "street": "\u7d4c\u58021-26-15 \u77f3\u585a\u30d3\u30eb 2F", 
+            "latitude": 35.647956845745
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Siam Thai Restaurant", 
+          "id": "121262734555324", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Arlington", 
+            "zip": "22207-3722", 
+            "country": "United States", 
+            "longitude": -77.106819000000002, 
+            "state": "VA", 
+            "street": "3813 Lee Hwy", 
+            "latitude": 38.896701999999998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sala Boutique Hotel & Thai Resto", 
+          "id": "103505383079893", 
+          "category_list": [
+            {
+              "id": "164243073639257", 
+              "name": "Hotel"
+            }, 
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Male", 
+            "zip": "", 
+            "country": "Maldives", 
+            "longitude": 73.513461604979994, 
+            "street": "", 
+            "latitude": 4.1766492293594997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32", 
+          "id": "196544873813261", 
+          "category_list": [
+            {
+              "id": "192049437499122", 
+              "name": "Residence & Other"
+            }
+          ], 
+          "location": {
+            "latitude": 15.272725315900001, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 103.516368583
+          }
+        }, 
+        {
+          "category": "Spas/beauty/personal care", 
+          "name": "SalaThai-Massagepraxis", 
+          "id": "171392822951180", 
+          "category_list": [
+            {
+              "id": "139225689474222", 
+              "name": "Spa, Beauty & Personal Care"
+            }
+          ], 
+          "location": {
+            "city": "Neu-Ulm", 
+            "zip": "89233", 
+            "country": "Germany", 
+            "longitude": 10.038056309870001, 
+            "state": "", 
+            "street": "Im Brittle 17", 
+            "latitude": 48.412784756937
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Winner Salaya - \u0e27\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e28\u0e32\u0e25\u0e32\u0e22\u0e32", 
+          "id": "524104974341888", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "latitude": 13.820600000000001, 
+            "street": "\u0e2b\u0e19\u0e49\u0e32 \u0e21. \u0e21\u0e2b\u0e34\u0e14\u0e25 \u0e28\u0e32\u0e25\u0e32\u0e22\u0e32 \u0e15\u0e23\u0e07\u0e02\u0e49\u0e32\u0e21 \u0e15\u0e36\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c \u0e15\u0e23\u0e07\u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e25\u0e2d\u0e22\u0e17\u0e35\u0e48 2 \u0e1b\u0e23\u0e30\u0e15\u0e39 2 \u0e15\u0e34\u0e14\u0e1b\u0e49\u0e32\u0e22\u0e23\u0e16\u0e40\u0e21\u0e25\u0e25\u0e4c", 
+            "zip": "", 
+            "longitude": 100.062
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sala coffee", 
+          "id": "152130351614446", 
+          "category_list": [
+            {
+              "id": "128673187201735", 
+              "name": "Coffee Shop"
+            }
+          ], 
+          "location": {
+            "city": "Nakorn Panom", 
+            "zip": "66", 
+            "country": "Thailand", 
+            "longitude": 104.72434197, 
+            "street": "Wat Prathatphanom ", 
+            "latitude": 16.941901104999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e28\u0e32\u0e25\u0e32\u0e25\u0e38\u0e07\u0e1e\u0e25 \u0e2a\u0e27\u0e19\u0e2a\u0e19 @\u0e23\u0e30\u0e22\u0e2d\u0e07", 
+          "id": "109144202531246", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 12.6336278075, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 101.474000076
+          }
+        }, 
+        {
+          "category": "Shopping/retail", 
+          "name": "Thais Valen\u00e7a", 
+          "id": "346261622076979", 
+          "category_list": [
+            {
+              "id": "186230924744328", 
+              "name": "Clothing Store"
+            }
+          ], 
+          "location": {
+            "city": "Recife", 
+            "zip": "52020-025", 
+            "country": "Brazil", 
+            "longitude": -34.891649639732996, 
+            "state": "", 
+            "street": "Rua do Espinheiro, 1527 - Empresarial Phoenix - Sala 109", 
+            "latitude": -8.0412770109172005
+          }
+        }, 
+        {
+          "category": "Community organization", 
+          "name": "THAPPHRAYA RADIO 94.75 FM", 
+          "id": "1436053009962057", 
+          "category_list": [
+            {
+              "id": "296862927058877", 
+              "name": "Community Center"
+            }
+          ], 
+          "location": {
+            "city": "Pattaya", 
+            "zip": "20150", 
+            "country": "Thailand", 
+            "longitude": 100.89281420283, 
+            "state": "", 
+            "street": "", 
+            "latitude": 12.949149253391001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e28\u0e32\u0e25\u0e32\u0e22\u0e32 \u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21", 
+          "id": "208957539160317", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 13.7981252033, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 100.327347352
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e2d\u0e35\u0e0b\u0e39\u0e0b\u0e38\u0e28\u0e32\u0e25\u0e32 \u0e08\u0e2d\u0e21\u0e17\u0e2d\u0e07", 
+          "id": "439799726034802", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 18.4399520258, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 98.690336306800006
+          }
+        }, 
+        {
+          "category": "Shopping/retail", 
+          "name": "\u0e14\u0e39\u0e42\u0e2e\u0e21 \u0e2a\u0e32\u0e02\u0e32\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32", 
+          "id": "346315602175611", 
+          "category_list": [
+            {
+              "id": "200600219953504", 
+              "name": "Shopping & Retail"
+            }
+          ], 
+          "location": {
+            "city": "Nakhon Ratchasima", 
+            "zip": "30000", 
+            "country": "Thailand", 
+            "longitude": 102.099874523, 
+            "state": "", 
+            "street": "412 \u0e2b\u0e21\u0e39\u0e48 2 \u0e16.\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32-\u0e42\u0e0a\u0e04\u0e0a\u0e31\u0e22 \u0e15.\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e28\u0e32\u0e25\u0e32 (\u0e43\u0e01\u0e25\u0e49 TT&T) ", 
+            "latitude": 15.0068476653
+          }
+        }, 
+        {
+          "category": "Spas/beauty/personal care", 
+          "name": "Sala Siam Traditionelle Thaimassage", 
+          "id": "632486396780021", 
+          "category_list": [
+            {
+              "id": "109578329118821", 
+              "name": "Massage"
+            }, 
+            {
+              "id": "211987392145473", 
+              "name": "Health Spa"
+            }
+          ], 
+          "location": {
+            "city": "D\u00fclmen", 
+            "zip": "48249", 
+            "country": "Germany", 
+            "longitude": 7.2841879129600002, 
+            "state": "", 
+            "street": "Coesfelder Stra\u00dfe 25", 
+            "latitude": 51.836250336100001
+          }
+        }, 
+        {
+          "category": "Sports/recreation/activities", 
+          "name": "The Yoga Sala", 
+          "id": "208159909372047", 
+          "category_list": [
+            {
+              "id": "174832985894571", 
+              "name": "Yoga & Pilates"
+            }
+          ], 
+          "location": {
+            "city": "Ko Samui", 
+            "zip": "84330", 
+            "country": "Thailand", 
+            "longitude": 99.966700000000003, 
+            "state": "", 
+            "street": "39/15 moo5, Mae nam, Surat Thani 84330 ", 
+            "latitude": 9.4333299999999998
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "\u0e23\u0e49\u0e32\u0e19\u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e1e\u0e31\u0e17\u0e22\u0e32\"\u0e28\u0e32\u0e25\u0e32\u0e44\u0e17\u0e22\" \u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e44\u0e17\u0e22 \u0e0b\u0e35\u0e1f\u0e39\u0e49\u0e14 \u0e2b\u0e49\u0e2d\u0e07\u0e08\u0e31\u0e14\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07 \u0e2a\u0e31\u0e21\u0e21\u0e19\u0e32 \u0e04\u0e32\u0e23\u0e32\u0e42\u0e2d\u0e40\u0e01\u0e30", 
+          "id": "1411207572458748", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }, 
+            {
+              "id": "163300367054197", 
+              "name": "Seafood Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Chonburi", 
+            "zip": "20180", 
+            "country": "Thailand", 
+            "longitude": 100.98, 
+            "state": "", 
+            "street": "salathai-naam.com", 
+            "latitude": 13.359999999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e27\u0e31\u0e07\u0e28\u0e32\u0e25\u0e32 \u0e0b\u0e2d\u0e22 1\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35", 
+          "id": "330272847070140", 
+          "category_list": [
+            {
+              "id": "188662441155211", 
+              "name": "Community & Government"
+            }
+          ], 
+          "location": {
+            "latitude": 13.951952887199999, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 99.6838258043
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19 \u0e28\u0e32\u0e25\u0e32\u0e22\u0e322", 
+          "id": "206298636200429", 
+          "category_list": [
+            {
+              "id": "192049437499122", 
+              "name": "Residence & Other"
+            }
+          ], 
+          "location": {
+            "latitude": 13.7984372553, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 100.28458711099999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e19\u0e49\u0e33\u0e17\u0e2d\u0e07\u0e2a\u0e34\u0e01\u0e02\u0e32\u0e25\u0e31\u0e22(\u0e02\u0e49\u0e32\u0e07\u0e42\u0e25\u0e15\u0e31\u0e2a\u0e28\u0e32\u0e25\u0e32\u0e22\u0e32)", 
+          "id": "282558005105777", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 13.7836771584, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 100.299270935
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e1e\u0e24\u0e01\u0e29\u0e324 \u0e28\u0e32\u0e25\u0e32\u0e22\u0e32", 
+          "id": "493658950650829", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 13.819309007699999, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 100.242541317
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e2d\u0e38\u0e17\u0e22\u0e32\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e0a\u0e32\u0e15\u0e34 \u0e20\u0e39\u0e40\u0e01\u0e49\u0e32 \u0e20\u0e39\u0e1e\u0e32\u0e19\u0e04\u0e33", 
+          "id": "113353082083766", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 16.811939940045999, 
+            "street": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e14\u0e34\u0e19\u0e2b\u0e49\u0e27\u0e22\u0e40\u0e15\u0e22", 
+            "zip": "", 
+            "longitude": 102.61044206443
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "\u30bf\u30a4\u30ec\u30b9\u30c8\u30e9\u30f3 \u30b5\u30e9\u30ea\u30e0\u30ca\u30e0", 
+          "id": "127367260664505", 
+          "category_list": [
+            {
+              "id": "179167895459033", 
+              "name": "Thai Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fukuoka-shi", 
+            "zip": "8100042", 
+            "country": "Japan", 
+            "longitude": 130.38757822700001, 
+            "state": "Fukuoka", 
+            "street": "\u4e2d\u592e\u533a\u8d64\u5742\uff13\u4e01\u76ee\uff19\uff0d\uff12\uff15\u3000\u30b9\u30c6\u30c3\u30d7\u30b6\u8d64\u5742\uff12\u968e", 
+            "latitude": 33.583948487199997
+          }
+        }, 
+        {
+          "category": "Professional services", 
+          "name": "Thais Rodrigues Cia da Beleza", 
+          "id": "498487283517717", 
+          "category_list": [
+            {
+              "id": "199236533423806", 
+              "name": "Beauty Salon"
+            }
+          ], 
+          "location": {
+            "city": "Cuiab\u00e1", 
+            "zip": "780000000", 
+            "country": "Brazil", 
+            "longitude": -56.117816900000001, 
+            "state": "", 
+            "street": "Rua 13 de Junho,  Sala 801, Galeria GG, Bairro Centro", 
+            "latitude": -15.610145599999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e42\u0e2d\u0e49\u0e42\u0e2e \u0e42\u0e1a\u0e23\u0e32\u0e13\u0e08\u0e31\u0e07 \u0e2a\u0e32\u0e02\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07 \u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c", 
+          "id": "1443388112546053", 
+          "category_list": [
+            {
+              "id": "128673187201735", 
+              "name": "Coffee Shop"
+            }, 
+            {
+              "id": "178048968909016", 
+              "name": "Manufacturing"
+            }
+          ], 
+          "location": {
+            "city": "Muang Buriram", 
+            "zip": "31000", 
+            "country": "Thailand", 
+            "longitude": 103.117, 
+            "state": "", 
+            "street": "Thailand", 
+            "latitude": 15
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e2d\u0e38\u0e17\u0e22\u0e32\u0e19\u0e41\u0e2b\u0e48\u0e07\u0e0a\u0e32\u0e15\u0e34\u0e2a\u0e32\u0e25\u0e30\u0e27\u0e34\u0e19(\u0e41\u0e21\u0e48\u0e2a\u0e30\u0e25\u0e32\u0e1a)", 
+          "id": "187413591308239", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 18.159768561300002, 
+            "street": "\u0e41\u0e21\u0e48\u0e2a\u0e30\u0e40\u0e23\u0e35\u0e22\u0e07", 
+            "zip": "", 
+            "longitude": 97.936519647699996
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e2b\u0e19\u0e2d\u0e07\u0e28\u0e32\u0e25\u0e32 (\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e19\u0e38\u0e01\u0e39\u0e25)", 
+          "id": "168767143216452", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 14.027441272500001, 
+            "street": "", 
+            "zip": "", 
+            "longitude": 99.885444556899998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e40\u0e02\u0e37\u0e48\u0e2d\u0e19\u0e25\u0e33\u0e1b\u0e25\u0e32\u0e22\u0e21\u0e32\u0e28", 
+          "id": "409294242465559", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 14.302340963100001, 
+            "street": "\u0e2b\u0e19\u0e49\u0e32\u0e28\u0e32\u0e25\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c", 
+            "zip": "", 
+            "longitude": 102.431336016
+          }
+        }, 
+        {
+          "category": "Government organization", 
+          "name": "\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d\u0e40\u0e14\u0e34\u0e19\u0e17\u0e32\u0e07\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27 \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15", 
+          "id": "678025475582772", 
+          "category_list": [
+            {
+              "id": "149044025154029", 
+              "name": "Passport & Visa Service"
+            }
+          ], 
+          "location": {
+            "city": "Amphoe Muang Phuket", 
+            "zip": "83000", 
+            "country": "Thailand", 
+            "longitude": 98.399075144999998, 
+            "state": "", 
+            "street": "\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15 \u0e16\u0e19\u0e19\u0e19\u0e23\u0e34\u0e28\u0e23", 
+            "latitude": 7.8901835499999997
+          }
+        }, 
+        {
+          "category": "Professional services", 
+          "name": "Tha\u00eds Aires Nutricionista", 
+          "id": "249467635229586", 
+          "category_list": [
+            {
+              "id": "176831012360626", 
+              "name": "Professional Services"
+            }
+          ], 
+          "location": {
+            "city": "Rio de Janeiro", 
+            "zip": "200110-30", 
+            "country": "Brazil", 
+            "longitude": -43.176192429776002, 
+            "state": "", 
+            "street": "Rua da Quitanda, 19, sala 706. Centro", 
+            "latitude": -22.904883535118
+          }
+        }, 
+        {
+          "category": "Shopping/retail", 
+          "name": "\u0e15\u0e4a\u0e2d) Salaya WHEEL SHOP", 
+          "id": "552158384880615", 
+          "category_list": [
+            {
+              "id": "196083133750448", 
+              "name": "Race Cars"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "73170", 
+            "country": "Thailand", 
+            "longitude": 100.494, 
+            "state": "", 
+            "street": "\u0e21\u0e2b\u0e34\u0e14\u0e25\u0e28\u0e32\u0e25\u0e32\u0e22\u0e32", 
+            "latitude": 13.7522
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e27\u0e31\u0e14\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2a\u0e23\u0e27\u0e07\u0e40\u0e01\u0e48\u0e32", 
+          "id": "541190429233998", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "latitude": 15.8099516397, 
+            "street": "\u0e28\u0e32\u0e25\u0e32\u0e19\u0e49\u0e2d\u0e22", 
+            "zip": "", 
+            "longitude": 103.718012168
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "\u0e2d\u0e42\u0e13\u0e17\u0e31\u0e22\u0e01\u0e32\u0e41\u0e1f\u0e2a\u0e14", 
+          "id": "414877355281672", 
+          "category_list": [
+            {
+              "id": "128673187201735", 
+              "name": "Coffee Shop"
+            }
+          ], 
+          "location": {
+            "city": "Nakhon Ratchasima", 
+            "zip": "30000", 
+            "country": "Thailand", 
+            "longitude": 102.06066066906, 
+            "state": "", 
+            "street": "91/9 \u0e15.\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e28\u0e32\u0e25\u0e32 \u0e2d.\u0e40\u0e21\u0e37\u0e2d\u0e07", 
+            "latitude": 14.959615474095999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Coffee by Kanyarat", 
+          "id": "576291255791383", 
+          "category_list": [
+            {
+              "id": "128673187201735", 
+              "name": "Coffee Shop"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "27000", 
+            "country": "Thailand", 
+            "longitude": 100.494, 
+            "state": "", 
+            "street": "400 \u0e21.1 \u0e15.\u0e28\u0e32\u0e25\u0e32\u0e25\u0e33\u0e14\u0e27\u0e19 \u0e2d.\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e08.\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27", 
+            "latitude": 13.7522
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e1a\u0e49\u0e32\u0e19\u0e44\u0e21\u0e49\u0e2b\u0e25\u0e32", 
+          "id": "291031551029906", 
+          "category_list": [
+            {
+              "id": "423120631108780", 
+              "name": "Borough"
+            }
+          ], 
+          "location": {
+            "latitude": 8.2671858839500008, 
+            "street": "\u0e1a\u0e49\u0e32\u0e19\u0e28\u0e32\u0e25\u0e32\u0e41\u0e02\u0e01", 
+            "zip": "", 
+            "longitude": 99.859674785199999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "\u0e1a\u0e49\u0e32\u0e19\u0e2b\u0e19\u0e2d\u0e07\u0e08\u0e32\u0e19 \u0e2d.\u0e42\u0e19\u0e19\u0e2a\u0e30\u0e2d\u0e32\u0e14", 
+          "id": "565522180142820", 
+          "category_list": [
+            {
+              "id": "110321355709642", 
+              "name": "Bed and Breakfast"
+            }
+          ], 
+          "location": {
+            "latitude": 16.964752738400001, 
+            "street": "\u0e17\u0e38\u0e48\u0e07\u0e19\u0e32\u0e1e\u0e48\u0e2d\u0e41\u0e2b\u0e25\u0e27\u0e2b\u0e25\u0e31\u0e07\u0e28\u0e32\u0e25\u0e32", 
+            "zip": "", 
+            "longitude": 102.90046312299999
+          }
+        }, 
+        {
+          "category": "Arts/entertainment/nightlife", 
+          "name": "Amnesia Club Koh Phangan", 
+          "id": "1477665009126150", 
+          "category_list": [
+            {
+              "id": "191478144212980", 
+              "name": "Night Club"
+            }, 
+            {
+              "id": "133436743388217", 
+              "name": "Arts & Entertainment"
+            }
+          ], 
+          "location": {
+            "city": "Amphoe Muang Surat Thani", 
+            "zip": "84280", 
+            "country": "Thailand", 
+            "longitude": 100.01057198601001, 
+            "state": "", 
+            "street": "Ko Phangan", 
+            "latitude": 9.7058324539992995
+          }
+        }, 
+        {
+          "category": "Real estate", 
+          "name": "Green View", 
+          "id": "534304433335129", 
+          "category_list": [
+            {
+              "id": "150944301629503", 
+              "name": "Real Estate Investment"
+            }
+          ], 
+          "location": {
+            "city": "Surat Thani", 
+            "zip": "84280", 
+            "country": "Thailand", 
+            "longitude": 99.330600000000004, 
+            "state": "", 
+            "street": "Thong Sala, Koh Phangan.", 
+            "latitude": 9.1396999999999995
+          }
+        }, 
+        {
+          "category": "Transportation", 
+          "name": "Koh Phangan Motorbikes", 
+          "id": "435995939866374", 
+          "category_list": [
+            {
+              "id": "433034116710064", 
+              "name": "Bike Rental & Bike Share"
+            }, 
+            {
+              "id": "211125172246436", 
+              "name": "Scooter Rental"
+            }, 
+            {
+              "id": "198383950173309", 
+              "name": "Car Rental"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "84280", 
+            "country": "Thailand", 
+            "longitude": 100.494, 
+            "state": "", 
+            "street": "Thong Sala, Koh Phangan", 
+            "latitude": 13.7522
+          }
+        }, 
+        {
+          "category": "Business services", 
+          "name": "3 \u0e02\u0e31\u0e49\u0e19\u0e15\u0e2d\u0e19\u0e07\u0e48\u0e32\u0e22\u0e46 \u0e17\u0e35\u0e48\u0e08\u0e30\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e23\u0e32\u0e22\u0e44\u0e14\u0e49\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13", 
+          "id": "1456522167903138", 
+          "category_list": [
+            {
+              "id": "187133811318958", 
+              "name": "Business Services"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "10170", 
+            "country": "Thailand", 
+            "longitude": 100.494, 
+            "state": "", 
+            "street": "112 \u0e2b\u0e21\u0e39\u0e48 10 \u0e1a\u0e23\u0e21\u0e23\u0e32\u0e0a\u0e0a\u0e19\u0e19\u0e35 \u0e41\u0e02\u0e27\u0e07\u0e28\u0e32\u0e25\u0e32\u0e18\u0e23\u0e23\u0e21\u0e2a\u0e1e\u0e19\u0e4c \u0e40\u0e02\u0e15\u0e17\u0e27\u0e35\u0e27\u0e31\u0e12\u0e19\u0e32", 
+            "latitude": 13.7522
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Chill in Shop", 
+          "id": "1477428582484191", 
+          "category_list": [
+            {
+              "id": "186230924744328", 
+              "name": "Clothing Store"
+            }
+          ], 
+          "location": {
+            "city": "Ko Phangan", 
+            "zip": "0000", 
+            "country": "Thailand", 
+            "longitude": 100, 
+            "state": "", 
+            "street": "tong sala, on the way to bantai, in front of big A, between 7/11 and Bamboo Bistrot", 
+            "latitude": 9.7166700000000006
+          }
+        }, 
+        {
+          "category": "Hotel", 
+          "name": "Relax Corner Hostel", 
+          "id": "254656641361231", 
+          "category_list": [
+            {
+              "id": "150438461681329", 
+              "name": "Hostel"
+            }
+          ], 
+          "location": {
+            "city": "Surat Thani", 
+            "zip": "84280", 
+            "country": "Thailand", 
+            "longitude": 99.330600000000004, 
+            "state": "", 
+            "street": "113 Moo.1, Thong Sala-Baantai Road, Thong Sala / Baan Tai, KohPhangan, Thailand", 
+            "latitude": 9.1396999999999995
+          }
+        }, 
+        {
+          "category": "Shopping/retail", 
+          "name": "\u0e16\u0e31\u0e07\u0e17\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e04\u0e49\u0e32", 
+          "id": "269407879880560", 
+          "category_list": [
+            {
+              "id": "187070794658134", 
+              "name": "Wholesale & Supply Store"
+            }
+          ], 
+          "location": {
+            "city": "Kanchanaburi", 
+            "zip": "71110", 
+            "country": "Thailand", 
+            "longitude": 99.529700000000005, 
+            "state": "", 
+            "street": "47/1 \u0e21.10 \u0e15.\u0e27\u0e31\u0e07\u0e28\u0e32\u0e25\u0e32 \u0e2d.\u0e17\u0e48\u0e32\u0e21\u0e48\u0e27\u0e07", 
+            "latitude": 14.0192
+          }
+        }, 
+        {
+          "category": "Professional services", 
+          "name": "\u0e1b\u0e34\u0e22\u0e30\u0e1e\u0e07\u0e29\u0e4c \u0e41\u0e2d\u0e23\u0e4c \u0e41\u0e2d\u0e19\u0e14\u0e4c \u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e27\u0e34\u0e2a", 
+          "id": "272018792955745", 
+          "category_list": [
+            {
+              "id": "193198380699462", 
+              "name": "Repair Service"
+            }
+          ], 
+          "location": {
+            "city": "Bangkok", 
+            "zip": "10170", 
+            "country": "Thailand", 
+            "longitude": 100.71151, 
+            "state": "", 
+            "street": "67/9\u0e2b\u0e21\u0e39\u0e48\u0e1a\u0e49\u0e32\u0e19\u0e40\u0e1b\u0e23\u0e21\u0e27\u0e14\u0e35 \u0e16\u0e19\u0e19\u0e1e\u0e38\u0e17\u0e18\u0e21\u0e13\u0e11\u0e25\u0e2a\u0e32\u0e223 \u0e41\u0e02\u0e27\u0e07\u0e28\u0e32\u0e25\u0e32\u0e18\u0e23\u0e23\u0e21\u0e2a\u0e1e\u0e19\u0e4c \u0e40\u0e02\u0e15\u0e17\u0e27\u0e35\u0e27\u0e31\u0e12\u0e19\u0e32 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f10170", 
+            "latitude": 13.787405
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Do\u0e19\u0e21", 
+          "id": "277737825713361", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Paknampo", 
+            "zip": "60000", 
+            "country": "Thailand", 
+            "longitude": 100.15000000000001, 
+            "state": "", 
+            "street": "\u0e28\u0e32\u0e25\u0e32\u0e01\u0e25\u0e32\u0e07\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c", 
+            "latitude": 15.716699999999999
+          }
+        }, 
+        {
+          "category": "Food/beverages", 
+          "name": "S coffee  fresh coffee ( By P' S )", 
+          "id": "158620394196798", 
+          "category_list": [
+            {
+              "id": "128673187201735", 
+              "name": "Coffee Shop"
+            }
+          ], 
+          "location": {
+            "city": "Amphoe Muang Sukhothai", 
+            "zip": "64000", 
+            "country": "Thailand", 
+            "longitude": 99.826367818514996, 
+            "state": "", 
+            "street": "  15/7 sreiintharathit  thanee ", 
+            "latitude": 17.006507643748002
+          }
+        }, 
+        {
+          "category": "Tours/sightseeing", 
+          "name": "The Adventure Camping Tour", 
+          "id": "217819431753292", 
+          "category_list": [
+            {
+              "id": "214416301907154", 
+              "name": "Eco Tours"
+            }
+          ], 
+          "location": {
+            "city": "Songkhla", 
+            "zip": "90100", 
+            "country": "Thailand", 
+            "longitude": 100.61314686263, 
+            "state": "", 
+            "street": "", 
+            "latitude": 7.1678030307610996
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Arizona's Pet Stylist", 
+    "business_id": "9-D3waqHCrv5a1Clog8YJg", 
+    "fb_pages": {
+      "data": []
+    }
+  }, 
+  {
+    "business_name": "Carlos O'Briens", 
+    "business_id": "qHjUo2foq-IXF6Tk1Iz3WQ", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=184430791574799"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Carlos O' Briens restaurant", 
+          "id": "201201653300102", 
+          "category_list": [
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85020", 
+            "country": "United States", 
+            "longitude": -112.057235128, 
+            "state": "AZ", 
+            "street": "1133 East Northern Avenue", 
+            "latitude": 33.552457248499998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Carlos o briens... Mexican restaraunt", 
+          "id": "141684765932050", 
+          "category_list": [
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Avondale", 
+            "zip": "85323", 
+            "country": "United States", 
+            "longitude": -112.304881994, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 33.454518259899999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Carlos O'Briens", 
+          "id": "298910880174028", 
+          "category_list": [
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -111.926925404, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 33.638120451799999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "carlos o'briens", 
+          "id": "142356375827045", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Riverside", 
+            "zip": "92503", 
+            "country": "United States", 
+            "longitude": -117.369948376, 
+            "state": "CA", 
+            "street": "", 
+            "latitude": 34.085186984000003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Carlos O'Brien Pub", 
+          "id": "184430791574799", 
+          "category_list": [
+            {
+              "id": "218693881483234", 
+              "name": "Pub"
+            }, 
+            {
+              "id": "110290705711626", 
+              "name": "Bar"
+            }, 
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Kelowna", 
+            "zip": "", 
+            "country": "Canada", 
+            "longitude": -119.497810105, 
+            "state": "BC", 
+            "street": "", 
+            "latitude": 49.886608331200001
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Farrar Jewelers", 
+    "business_id": "2y4vUGH-NF05axrnnI5OLQ", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=156341601061375"
+      }, 
+      "data": [
+        {
+          "category": "Shopping/retail", 
+          "name": "Farrar Jewelers", 
+          "id": "133053746771835", 
+          "category_list": [
+            {
+              "id": "188031587886173", 
+              "name": "Jewelry Store"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85254", 
+            "country": "United States", 
+            "longitude": -111.927038, 
+            "state": "AZ", 
+            "street": "13802 N. Scottsdale Rd Suite 164", 
+            "latitude": 33.612215999999997
+          }
+        }, 
+        {
+          "category": "Shopping/retail", 
+          "name": "Morrow Farrar Jewelers", 
+          "id": "156341601061375", 
+          "category_list": [
+            {
+              "id": "188031587886173", 
+              "name": "Jewelry Store"
+            }, 
+            {
+              "id": "191647907538150", 
+              "name": "Gift Shop"
+            }, 
+            {
+              "id": "155851681143483", 
+              "name": "Jewelry Supplier"
+            }
+          ], 
+          "location": {
+            "city": "Camp Hill", 
+            "zip": "17011", 
+            "country": "United States", 
+            "longitude": -76.946072000000001, 
+            "state": "PA", 
+            "street": "3750 Market Street", 
+            "latitude": 40.239015000000002
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Blow Dry Bar By Kimberly", 
+    "business_id": "at82G4ZvMDtEsksDVk28tg", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=336354129834669"
+      }, 
+      "data": [
+        {
+          "category": "Spas/beauty/personal care", 
+          "name": "Blow Dry Bar by Kimberly", 
+          "id": "487016377982211", 
+          "category_list": [
+            {
+              "id": "139225689474222", 
+              "name": "Spa, Beauty & Personal Care"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85016", 
+            "country": "United States", 
+            "longitude": -112.01376823699999, 
+            "state": "AZ", 
+            "street": "3141 E. Lincoln Drive ", 
+            "latitude": 33.530659249000003
+          }
+        }, 
+        {
+          "category": "Spas/beauty/personal care", 
+          "name": "Blow Dry Bar by Kimberly", 
+          "id": "336354129834669", 
+          "category_list": [
+            {
+              "id": "139225689474222", 
+              "name": "Spa, Beauty & Personal Care"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85254", 
+            "country": "United States", 
+            "longitude": -111.92478199999999, 
+            "state": "AZ", 
+            "street": "15425 N. Scottsdale Rd. Suite 130", 
+            "latitude": 33.626480000000001
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Capoeira Brasil Tempe", 
+    "business_id": "a_tQn2Kd_ocH5SFEzPIkKw", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=24099391023"
+      }, 
+      "data": [
+        {
+          "category": "Sports/recreation/activities", 
+          "name": "Grupo Capoeira Brasil - Tempe, AZ", 
+          "id": "24099391023", 
+          "category_list": [
+            {
+              "id": "198325860180715", 
+              "name": "Martial Arts"
+            }
+          ], 
+          "location": {
+            "city": "Tempe", 
+            "zip": "85283", 
+            "country": "United States", 
+            "longitude": -111.92700634079, 
+            "state": "AZ", 
+            "street": "965 East Guadalupe Road", 
+            "latitude": 33.363301950020997
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Noe Import Auto", 
+    "business_id": "OVO5SWYHUz0exszeIBW33A", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=235887113095462"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Noe Import Auto", 
+          "id": "152447674796335", 
+          "category_list": [
+            {
+              "id": "149998721725634", 
+              "name": "Automotive Repair"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85201-1625", 
+            "country": "United States", 
+            "longitude": -111.82974900000001, 
+            "state": "AZ", 
+            "street": "63 E Mckellips Rd Ste 135", 
+            "latitude": 33.450921000000001
+          }
+        }, 
+        {
+          "category": "Automobiles and parts", 
+          "name": "Autoagent - Import av bil er ikke lenger noe problem", 
+          "id": "235887113095462", 
+          "category_list": [
+            {
+              "id": "2240", 
+              "name": "Automobiles and Parts"
+            }
+          ], 
+          "location": {
+            "city": "Hamburg", 
+            "zip": "20457", 
+            "country": "Germany", 
+            "longitude": 9.9854045042617994, 
+            "state": "", 
+            "street": "Am Kaiserkai 69", 
+            "latitude": 53.540978115226999
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "The Rowdy Boutique", 
+    "business_id": "BK_RKe_p0QURNJmKtkUnEA", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=104950052940363"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "A Rowdy Boutique", 
+          "id": "153975777956652", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Spring", 
+            "zip": "77379", 
+            "country": "United States", 
+            "longitude": -95.539185000000003, 
+            "state": "TX", 
+            "street": "8312 Louetta suite D", 
+            "latitude": 30.012978
+          }
+        }, 
+        {
+          "category": "Shopping/retail", 
+          "name": "Rowdy Pink Boutique", 
+          "id": "104950052940363", 
+          "category_list": [
+            {
+              "id": "188031587886173", 
+              "name": "Jewelry Store"
+            }, 
+            {
+              "id": "185127444860544", 
+              "name": "Accessories Store"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85012", 
+            "country": "United States", 
+            "longitude": -112.082486073, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 33.505120324300002
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Kazimierz World Wine Bar", 
+    "business_id": "P5uC-zfGG6yqoQDUyqyAvg", 
+    "fb_pages": {
+      "data": []
+    }
+  }, 
+  {
+    "business_name": "Mona Lisa Dental", 
+    "business_id": "p3ddasttQWyqgntZsaOwgw", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=169738093041146"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Mona Lisa Dental", 
+          "id": "150689875025862", 
+          "category_list": [
+            {
+              "id": "174187662626299", 
+              "name": "Dentist"
+            }
+          ], 
+          "location": {
+            "city": "Gilbert", 
+            "zip": "85295", 
+            "country": "United States", 
+            "longitude": -111.767926, 
+            "state": "AZ", 
+            "street": "936 E Williams Field Rd, Suite 101", 
+            "latitude": 33.306795000000001
+          }
+        }, 
+        {
+          "category": "Hospital/clinic", 
+          "name": "Dental World", 
+          "id": "135501293194889", 
+          "category_list": [
+            {
+              "id": "174187662626299", 
+              "name": "Dentist"
+            }
+          ], 
+          "location": {
+            "city": "Monterrey", 
+            "zip": "64610", 
+            "country": "Mexico", 
+            "longitude": -100.388171735, 
+            "state": "", 
+            "street": "mona lisa 308 L.8 barrio san luis", 
+            "latitude": 25.776906227400001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Mona Lisa Ceramics Dental Laboratory", 
+          "id": "198900983593985", 
+          "category_list": [
+            {
+              "id": "145118935550090", 
+              "name": "Medical & Health"
+            }
+          ], 
+          "location": {
+            "city": "East Gosford", 
+            "zip": "2250", 
+            "country": "Australia", 
+            "longitude": 151.35395300533, 
+            "state": "NSW", 
+            "street": "Suite 12, 36-40 Victoria Street", 
+            "latitude": -33.438540468520998
+          }
+        }, 
+        {
+          "category": "Hospital/clinic", 
+          "name": "Care Dental", 
+          "id": "121291157939288", 
+          "category_list": [
+            {
+              "id": "2527", 
+              "name": "Hospital/Clinic"
+            }
+          ], 
+          "location": {
+            "city": "Thane", 
+            "zip": "400602", 
+            "country": "India", 
+            "longitude": 72.964739399999999, 
+            "state": "", 
+            "street": "104 \u2013D , Mona Lisa , Above Monginis, Hariniwas Circle , Panchpakhadi", 
+            "latitude": 19.1836947
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Associated Dental Care Providers", 
+          "id": "169738093041146", 
+          "category_list": [
+            {
+              "id": "174187662626299", 
+              "name": "Dentist"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85741-2598", 
+            "country": "United States", 
+            "longitude": -111.021581, 
+            "state": "AZ", 
+            "street": "7225 N Mona Lisa Rd Ste 203", 
+            "latitude": 32.338065
+          }
+        }
+      ]
+    }
+  }
+]

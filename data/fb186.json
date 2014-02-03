@@ -1,0 +1,764 @@
+[
+  {
+    "business_name": "Central Phoenix OB/Gyn", 
+    "business_id": "1acmBPmmFDovVSHHzMrJ9A", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=305016206246067"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Central Phoenix OB/GYN", 
+          "id": "305016206246067", 
+          "category_list": [
+            {
+              "id": "127772663958428", 
+              "name": "OBGYN"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -112.069730999, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 33.470806975999999
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Penske Racing Museum", 
+    "business_id": "HxAbZD1nJH_RDZC37Qfo_w", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=111831248880691"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Penske Racing Museum", 
+          "id": "111831248880691", 
+          "category_list": [
+            {
+              "id": "197817313562497", 
+              "name": "Museum"
+            }, 
+            {
+              "id": "180410821995109", 
+              "name": "Automotive"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85054-6145", 
+            "country": "United States", 
+            "longitude": -111.9266751981, 
+            "state": "AZ", 
+            "street": "7125 E Chauncey Ln", 
+            "latitude": 33.650822634747001
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Pollo Sabroso", 
+    "business_id": "xY5BFKQFo5iLDhXxihkduQ", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=451271378296593"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "El Pollo Sabroso", 
+          "id": "117096378309917", 
+          "category_list": [
+            {
+              "id": "137420212991446", 
+              "name": "Peruvian Restaurant"
+            }, 
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Washington", 
+            "zip": "20010-2709", 
+            "country": "United States", 
+            "longitude": -77.037913030227003, 
+            "state": "DC", 
+            "street": "3153 Mount Pleasant St NW", 
+            "latitude": 38.930449592517
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Pollo Sabroso", 
+          "id": "228554367221980", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85034", 
+            "country": "United States", 
+            "longitude": -112.04753100000001, 
+            "state": "AZ", 
+            "street": "1602 E. Jefferson Street", 
+            "latitude": 33.447552000000002
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Papas Cache Sabroso (Pollo Chon)", 
+          "id": "120282627988000", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Chicago", 
+            "zip": "60622", 
+            "country": "United States", 
+            "longitude": -87.690211715819004, 
+            "state": "IL", 
+            "street": "2517 W. Division", 
+            "latitude": 41.902972523481999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Pollo Sabroso", 
+          "id": "123187811075007", 
+          "category_list": [
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bronx", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -73.889020085599995, 
+            "state": "NY", 
+            "street": "", 
+            "latitude": 40.871273478399999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sabroso Pollo", 
+          "id": "1382073242037499", 
+          "category_list": [
+            {
+              "id": "110113695730808", 
+              "name": "Chicken Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Xalapa", 
+            "zip": "91130", 
+            "country": "Mexico", 
+            "longitude": -96.929425199999997, 
+            "state": "", 
+            "street": "AV. XALAPA #714", 
+            "latitude": 19.548213499999999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "EL POLLO  REALMENTE SABROSO", 
+          "id": "536033786481333", 
+          "category_list": [
+            {
+              "id": "156756251046858", 
+              "name": "Health Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tem\u00f3sachic", 
+            "zip": "31980", 
+            "country": "Mexico", 
+            "longitude": -107.84999999999999, 
+            "state": "", 
+            "street": "Juarez y 2a. Frente Plaza Municipal.", 
+            "latitude": 28.949999999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Pollo Sabroso Av 20", 
+          "id": "290618221057731", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Barquisimeto", 
+            "zip": "", 
+            "country": "Venezuela", 
+            "longitude": -69.326949999999997, 
+            "state": "", 
+            "street": "", 
+            "latitude": 10.065250000000001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "El Pollo Sabroso", 
+          "id": "309095699197232", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "San Antonio", 
+            "zip": "78219", 
+            "country": "United States", 
+            "longitude": -98.398743999999994, 
+            "state": "TX", 
+            "street": "4754 Seguin Rd", 
+            "latitude": 29.463082
+          }
+        }, 
+        {
+          "category": "Food/grocery", 
+          "name": "Ruben pollo sabroso", 
+          "id": "550847338334136", 
+          "category_list": [
+            {
+              "id": "110113695730808", 
+              "name": "Chicken Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Cali", 
+            "zip": "76001", 
+            "country": "Colombia", 
+            "longitude": -76.522199999999998, 
+            "state": "", 
+            "street": "cra 23 #36-61 ", 
+            "latitude": 3.4205999999999999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "La Copita Pollo Sabroso", 
+          "id": "395956103858056", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Agua Prieta", 
+            "zip": "84259", 
+            "country": "Mexico", 
+            "longitude": -109.54271695600001, 
+            "state": "", 
+            "street": "Calle 6 y 7, Avenida 20 ", 
+            "latitude": 31.328452038599998
+          }
+        }, 
+        {
+          "category": "Food/grocery", 
+          "name": "Pollo jhon el mas sabroso", 
+          "id": "536157246468986", 
+          "category_list": [
+            {
+              "id": "162264673824073", 
+              "name": "Specialty Grocery Store"
+            }
+          ], 
+          "location": {
+            "city": "Coatzacoalcos", 
+            "zip": "96535", 
+            "country": "Mexico", 
+            "longitude": -94.416700000000006, 
+            "state": "", 
+            "street": "96535", 
+            "latitude": 18.149999999999999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Lechonera & Pollo Sabroso", 
+          "id": "443673732367770", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bronx", 
+            "zip": "10456", 
+            "country": "United States", 
+            "longitude": -73.907616000000004, 
+            "state": "NY", 
+            "street": "3326 3rd Ave", 
+            "latitude": 40.826011999999999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "El POLLO Realmente Sabroso", 
+          "id": "1403012943268621", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Chihuahua", 
+            "zip": "31980", 
+            "country": "Mexico", 
+            "longitude": -110.31699999999999, 
+            "state": "", 
+            "street": "31980", 
+            "latitude": 27.466699999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Country Chicken Pollo Sabroso", 
+          "id": "314405245301896", 
+          "category_list": [
+            {
+              "id": "2500", 
+              "name": "Local Business"
+            }
+          ], 
+          "location": {
+            "city": "Wheaton Crest", 
+            "zip": "20902", 
+            "country": "United States", 
+            "longitude": -77.052329601300002, 
+            "state": "MD", 
+            "street": "", 
+            "latitude": 39.038906528699997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Snack salte\u00f1eria pollo sabroso", 
+          "id": "661201080590541", 
+          "category_list": [
+            {
+              "id": "165679780146824", 
+              "name": "Food & Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Trinidad", 
+            "zip": "346", 
+            "country": "Bolivia", 
+            "longitude": -64.906489300000004, 
+            "state": "", 
+            "street": "avenida 6 de agosto", 
+            "latitude": -14.835289700000001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Pollo's Sabroso Restaurant Co Rp", 
+          "id": "109657959070060", 
+          "category_list": [
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Brooklyn", 
+            "zip": "11232-3434", 
+            "country": "United States", 
+            "longitude": -74.004997000000003, 
+            "state": "NY", 
+            "street": "4012 5th Ave", 
+            "latitude": 40.650539000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Asadero el Pollo Sabroso de la Mar\u00eda", 
+          "id": "107341482686608", 
+          "category_list": [
+            {
+              "id": "199377230079198", 
+              "name": "Mexican Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Popay\u00e1n", 
+            "zip": "", 
+            "country": "Colombia", 
+            "longitude": -76.631159999999994, 
+            "state": "", 
+            "street": "Cl. 2 39-14", 
+            "latitude": 2.44232
+          }
+        }, 
+        {
+          "category": "Food/grocery", 
+          "name": "Pollos Q' Sabroso", 
+          "id": "511645465576178", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Santa Cruz de la Sierra", 
+            "zip": " k56", 
+            "country": "Bolivia", 
+            "longitude": -63.166699999999999, 
+            "state": "", 
+            "street": "Bariio san francisco", 
+            "latitude": -17.800000000000001
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "El sabroso pollos a la brasa", 
+          "id": "288309014615261", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Upper Darby", 
+            "zip": "19082", 
+            "country": "United States", 
+            "longitude": -75.263007999999999, 
+            "state": "PA", 
+            "street": "109 faerfield av", 
+            "latitude": 39.960869000000002
+          }
+        }, 
+        {
+          "category": "Food/grocery", 
+          "name": "Asador De Pollos El Sabroson\"", 
+          "id": "451271378296593", 
+          "category_list": [
+            {
+              "id": "144362285623268", 
+              "name": "Food Stand"
+            }
+          ], 
+          "location": {
+            "city": "Badajoz", 
+            "zip": "06008", 
+            "country": "Spain", 
+            "longitude": -6.9668999999999999, 
+            "state": "", 
+            "street": "C, GALACHE HOYUELOS 15  san roque", 
+            "latitude": 38.878900000000002
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Mark J Gentile, MD", 
+    "business_id": "jMxPbB_qhCONidfVsf3uBA", 
+    "fb_pages": {
+      "data": []
+    }
+  }, 
+  {
+    "business_name": "Nee House Chinese Resturant", 
+    "business_id": "ChmqODwuYP1ewjmWXtxtsg", 
+    "fb_pages": {
+      "data": []
+    }
+  }, 
+  {
+    "business_name": "Center For True Harmony Wellness and Medicine", 
+    "business_id": "xNMCqgw6EZQrPJ1iAfgH2A", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=294918794384"
+      }, 
+      "data": [
+        {
+          "category": "Health/medical/pharmacy", 
+          "name": "Center for True Harmony Wellness and Medicine", 
+          "id": "294918794384", 
+          "category_list": [
+            {
+              "id": "200814353265561", 
+              "name": "Spa"
+            }, 
+            {
+              "id": "127772663958428", 
+              "name": "OBGYN"
+            }, 
+            {
+              "id": "357645644269220", 
+              "name": "Alternative & Holistic Health"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85210", 
+            "country": "United States", 
+            "longitude": -111.84417869799999, 
+            "state": "AZ", 
+            "street": "2152 S Vineyard #138", 
+            "latitude": 33.374896375500001
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "All Starz Sports Bar & Grill", 
+    "business_id": "LySAATrzrru3ajc5sEBFOA", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=145035472327052"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "All Starz Sports Bar & Grill", 
+          "id": "117385761612933", 
+          "category_list": [
+            {
+              "id": "110290705711626", 
+              "name": "Bar"
+            }, 
+            {
+              "id": "133436743388217", 
+              "name": "Arts & Entertainment"
+            }, 
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Chandler", 
+            "zip": "85226-7925", 
+            "country": "United States", 
+            "longitude": -111.927094, 
+            "state": "AZ", 
+            "street": "4929 W Chandler Blvd", 
+            "latitude": 33.304870999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "All Starz Sport Bar", 
+          "id": "145035472327052", 
+          "category_list": [
+            {
+              "id": "184460441595855", 
+              "name": "Sports Bar"
+            }
+          ], 
+          "location": {
+            "city": "College Park", 
+            "zip": "30337", 
+            "country": "United States", 
+            "longitude": -84.474401999999998, 
+            "state": "GA", 
+            "street": "4847 old national hwy", 
+            "latitude": 33.623741000000003
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Second Chance FitCenter", 
+    "business_id": "4y9ZQV_IooSdJTAMNwG1sg", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=111428952215539"
+      }, 
+      "data": [
+        {
+          "category": "Sports/recreation/activities", 
+          "name": "Second Chance FitCenter", 
+          "id": "111428952215539", 
+          "category_list": [
+            {
+              "id": "186982054657561", 
+              "name": "Sports & Recreation"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85210", 
+            "country": "United States", 
+            "longitude": -111.851513, 
+            "state": "AZ", 
+            "street": "Guadalupe and Extension", 
+            "latitude": 33.364246000000001
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Saguaro Lake Ranch Trail Rides", 
+    "business_id": "ZuFdIKk_5x140kpUmRTo2w", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=168418753239042"
+      }, 
+      "data": [
+        {
+          "category": "Sports/recreation/activities", 
+          "name": "Saguaro Lake Ranch Trail Rides", 
+          "id": "168418753239042", 
+          "category_list": [
+            {
+              "id": "186982054657561", 
+              "name": "Sports & Recreation"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85215", 
+            "country": "United States", 
+            "longitude": -111.55376, 
+            "state": "AZ", 
+            "street": "13020 N Bush Highway ", 
+            "latitude": 33.552700999999999
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "The House of Rice Store", 
+    "business_id": "P1CDEhEQZz5bK-sSqkRD0g", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=118055634921814"
+      }, 
+      "data": [
+        {
+          "category": "Food/grocery", 
+          "name": "House of Rice", 
+          "id": "178904715459558", 
+          "category_list": [
+            {
+              "id": "169207329791658", 
+              "name": "Grocery Store"
+            }, 
+            {
+              "id": "132852590115660", 
+              "name": "Kitchen Supplies"
+            }, 
+            {
+              "id": "191647907538150", 
+              "name": "Gift Shop"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85251", 
+            "country": "United States", 
+            "longitude": -111.90845769400001, 
+            "state": "AZ", 
+            "street": "3221 N Hayden Rd", 
+            "latitude": 33.485459373700003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "P N Rice Cake House", 
+          "id": "140575959312193", 
+          "category_list": [
+            {
+              "id": "169207329791658", 
+              "name": "Grocery Store"
+            }
+          ], 
+          "location": {
+            "city": "Atlanta", 
+            "zip": "30340-1106", 
+            "country": "United States", 
+            "longitude": -84.281974000000005, 
+            "state": "GA", 
+            "street": "5273 Buford Hwy NE", 
+            "latitude": 33.896191000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "House of Rice Oriental Imports & Gifts", 
+          "id": "104730782925724", 
+          "category_list": [
+            {
+              "id": "180816211956170", 
+              "name": "Cultural Gifts Store"
+            }
+          ], 
+          "location": {
+            "city": "Chico", 
+            "zip": "95928-5322", 
+            "country": "United States", 
+            "longitude": -121.84005000000001, 
+            "state": "CA", 
+            "street": "338 Broadway St", 
+            "latitude": 39.728389999999997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Miller's Cheese House", 
+          "id": "118055634921814", 
+          "category_list": [
+            {
+              "id": "162264673824073", 
+              "name": "Specialty Grocery Store"
+            }, 
+            {
+              "id": "192111490806699", 
+              "name": "Florist"
+            }, 
+            {
+              "id": "187133811318958", 
+              "name": "Business Services"
+            }
+          ], 
+          "location": {
+            "city": "Rice Lake", 
+            "zip": "54868-6300", 
+            "country": "United States", 
+            "longitude": -91.739247857099997, 
+            "state": "WI", 
+            "street": "2248 Hammond Ave", 
+            "latitude": 45.529999603699999
+          }
+        }
+      ]
+    }
+  }
+]

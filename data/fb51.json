@@ -1,0 +1,2368 @@
+[
+  {
+    "business_name": "Port of Subs and Smoothie King", 
+    "business_id": "cof7qW-PD0M7Jykclg48oQ", 
+    "fb_pages": {
+      "data": []
+    }
+  }, 
+  {
+    "business_name": "Galileo Bread Emporio", 
+    "business_id": "o4v2m2kwWRVvrwYFjYcKaw", 
+    "fb_pages": {
+      "data": []
+    }
+  }, 
+  {
+    "business_name": "Fresh Start Treasures", 
+    "business_id": "LcfryuGQBPwQ-7QL6A90qg", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=233609616698112"
+      }, 
+      "data": [
+        {
+          "category": "Shopping/retail", 
+          "name": "Fresh Start Treasures", 
+          "id": "233609616698112", 
+          "category_list": [
+            {
+              "id": "186230924744328", 
+              "name": "Clothing Store"
+            }, 
+            {
+              "id": "205429726142620", 
+              "name": "Thrift or Consignment Store"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85018", 
+            "country": "United States", 
+            "longitude": -111.996576, 
+            "state": "AZ", 
+            "street": "3949 E. Thomas Road", 
+            "latitude": 33.480286
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Veterans Oasis Park", 
+    "business_id": "WwhH1nme6D4LUqqkwZfJIg", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=182628768429368"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Veteran's Oasis Park", 
+          "id": "182628768429368", 
+          "category_list": [
+            {
+              "id": "115090141929327", 
+              "name": "Park"
+            }, 
+            {
+              "id": "163581277042500", 
+              "name": "Lake"
+            }, 
+            {
+              "id": "186982054657561", 
+              "name": "Sports & Recreation"
+            }
+          ], 
+          "location": {
+            "city": "Chandler", 
+            "zip": "85249", 
+            "country": "United States", 
+            "longitude": -111.7689792303, 
+            "state": "AZ", 
+            "street": "4050 E. Chandler Heights Rd", 
+            "latitude": 33.234414351520002
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Sportsman's Fine Wines", 
+    "business_id": "eek3lFfNMKULpwTSHGwzQA", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=163779286974419"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Sportsman's Fine Wines and Spirits", 
+          "id": "132093386835430", 
+          "category_list": [
+            {
+              "id": "199833073363963", 
+              "name": "Liquor Store"
+            }, 
+            {
+              "id": "192661127431931", 
+              "name": "Wine Bar"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85018-2307", 
+            "country": "United States", 
+            "longitude": -112.01256373039, 
+            "state": "AZ", 
+            "street": "3205 E Camelback Rd", 
+            "latitude": 33.509161285653001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Sportsman's Fine Wines and Spirits", 
+          "id": "163779286974419", 
+          "category_list": [
+            {
+              "id": "199833073363963", 
+              "name": "Liquor Store"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85254-5242", 
+            "country": "United States", 
+            "longitude": -111.926491, 
+            "state": "AZ", 
+            "street": "10802 N Scottsdale Rd", 
+            "latitude": 33.584311999999997
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Jack-In-the Box Drive Thru", 
+    "business_id": "bXXVRau9ySLcZVkjaAOBIw", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=111749485529601"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "115233665169983", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "San Jose", 
+            "zip": "95127-2839", 
+            "country": "United States", 
+            "longitude": -121.83560758821, 
+            "state": "CA", 
+            "street": "15 S Capitol Ave", 
+            "latitude": 37.361866187689998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack In The Box Drive-thru", 
+          "id": "105744452821723", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bakersfield", 
+            "zip": "93313", 
+            "country": "United States", 
+            "longitude": -119.05718594615, 
+            "state": "CA", 
+            "street": "", 
+            "latitude": 35.294375467430001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "115354415157167", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85008-4509", 
+            "country": "United States", 
+            "longitude": -111.97885434939001, 
+            "state": "AZ", 
+            "street": "4741 E Mcdowell Rd", 
+            "latitude": 33.465232925640997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "109605419077361", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85031-3843", 
+            "country": "United States", 
+            "longitude": -112.1525145908, 
+            "state": "AZ", 
+            "street": "4313 W Thomas Rd", 
+            "latitude": 33.480207290491002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "111564758881071", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Garland", 
+            "zip": "75041-3422", 
+            "country": "United States", 
+            "longitude": -96.631082790060006, 
+            "state": "TX", 
+            "street": "3101 S 1st St", 
+            "latitude": 32.878580047237001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "116238365071687", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85021-4206", 
+            "country": "United States", 
+            "longitude": -112.09927856429999, 
+            "state": "AZ", 
+            "street": "8951 N 19th Ave", 
+            "latitude": 33.566942007698998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "109338585773810", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85706-7637", 
+            "country": "United States", 
+            "longitude": -110.97744086372001, 
+            "state": "AZ", 
+            "street": "550 W Valencia Rd", 
+            "latitude": 32.134482983144999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "115305408488263", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Hayward", 
+            "zip": "94544-7601", 
+            "country": "United States", 
+            "longitude": -122.03672777684, 
+            "state": "CA", 
+            "street": "31005 Mission Blvd", 
+            "latitude": 37.620167295152001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "121492237861457", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Livermore", 
+            "zip": "94550-4401", 
+            "country": "United States", 
+            "longitude": -121.77330707288, 
+            "state": "CA", 
+            "street": "1817 1st St", 
+            "latitude": 37.679991246752003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "102198756490613", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85029-3944", 
+            "country": "United States", 
+            "longitude": -112.15103961521, 
+            "state": "AZ", 
+            "street": "10621 N 43rd Ave", 
+            "latitude": 33.582760895401002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "115289241823840", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fresno", 
+            "zip": "93710-3506", 
+            "country": "United States", 
+            "longitude": -119.78975919510999, 
+            "state": "CA", 
+            "street": "6720 N Blackstone Ave", 
+            "latitude": 36.836001918741999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "117605334925061", 
+          "category_list": [
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }, 
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Rohnert Park", 
+            "zip": "94928-2105", 
+            "country": "United States", 
+            "longitude": -122.70988342045, 
+            "state": "CA", 
+            "street": "6299 Commerce Blvd", 
+            "latitude": 38.348783982737999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "119485851399504", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Campbell", 
+            "zip": "95008-0511", 
+            "country": "United States", 
+            "longitude": -121.95867480430999, 
+            "state": "CA", 
+            "street": "510 W Hamilton Ave", 
+            "latitude": 37.293938045981001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "114214788602679", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Redwood City", 
+            "zip": "94061-3611", 
+            "country": "United States", 
+            "longitude": -122.22534626365, 
+            "state": "CA", 
+            "street": "986 Woodside Rd", 
+            "latitude": 37.463001976325998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "113975428623271", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tempe", 
+            "zip": "85281-1905", 
+            "country": "United States", 
+            "longitude": -111.926043342, 
+            "state": "AZ", 
+            "street": "901 E Curry Rd", 
+            "latitude": 33.440041594900002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "114039575283713", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85257-3548", 
+            "country": "United States", 
+            "longitude": -111.920967969, 
+            "state": "AZ", 
+            "street": "7412 E Mcdowell Rd", 
+            "latitude": 33.4660215834
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "113821938645741", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tempe", 
+            "zip": "85281-4688", 
+            "country": "United States", 
+            "longitude": -111.893821472, 
+            "state": "AZ", 
+            "street": "2145 E University Dr", 
+            "latitude": 33.4217058017
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "118319861512600", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85032-7140", 
+            "country": "United States", 
+            "longitude": -112.01291077899999, 
+            "state": "AZ", 
+            "street": "12223 N 32nd St", 
+            "latitude": 33.598059200000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "107158372653103", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Palo Alto", 
+            "zip": "94306-1436", 
+            "country": "United States", 
+            "longitude": -122.14706571291001, 
+            "state": "CA", 
+            "street": "2280 El Camino Real", 
+            "latitude": 37.425602466926001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "113331985363408", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85704-2403", 
+            "country": "United States", 
+            "longitude": -110.978853853, 
+            "state": "AZ", 
+            "street": "4949 N Oracle Rd", 
+            "latitude": 32.296851913499999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "111685778866531", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Berkeley", 
+            "zip": "94702", 
+            "country": "United States", 
+            "longitude": -122.29113180900001, 
+            "state": "CA", 
+            "street": "2197 San Pablo Ave", 
+            "latitude": 37.866733769200003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "109578459077506", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tempe", 
+            "zip": "85282-1502", 
+            "country": "United States", 
+            "longitude": -111.924879139, 
+            "state": "AZ", 
+            "street": "942 E Broadway Rd", 
+            "latitude": 33.407806706199999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "117404714944870", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fresno", 
+            "zip": "93702-2725", 
+            "country": "United States", 
+            "longitude": -119.77190417504001, 
+            "state": "CA", 
+            "street": "3110 E Tulare St", 
+            "latitude": 36.742837949288003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "111872365510380", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85710-8430", 
+            "country": "United States", 
+            "longitude": -110.841399555, 
+            "state": "AZ", 
+            "street": "1302 S Kolb Rd", 
+            "latitude": 32.205194802800001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "109600002409927", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85205", 
+            "country": "United States", 
+            "longitude": -111.70231343, 
+            "state": "AZ", 
+            "street": "5965 E Main St", 
+            "latitude": 33.415323886400003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "118773428135994", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fremont", 
+            "zip": "94536-3634", 
+            "country": "United States", 
+            "longitude": -122.01290453249, 
+            "state": "CA", 
+            "street": "36848 Fremont Blvd", 
+            "latitude": 37.561630224783002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "118497524828293", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Carmichael", 
+            "zip": "95608-4415", 
+            "country": "United States", 
+            "longitude": -121.32905836499999, 
+            "state": "CA", 
+            "street": "5845 Marconi Ave", 
+            "latitude": 38.617388402700001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "113400218683186", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85254-5203", 
+            "country": "United States", 
+            "longitude": -111.92754867799999, 
+            "state": "AZ", 
+            "street": "7116 E Shea Blvd", 
+            "latitude": 33.582487820799997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "114227901934227", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Hayward", 
+            "zip": "94545-2444", 
+            "country": "United States", 
+            "longitude": -122.10441129633, 
+            "state": "CA", 
+            "street": "25198 Hesperian Blvd", 
+            "latitude": 37.643984104455001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "113683051994681", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Sacramento", 
+            "zip": "95825-3301", 
+            "country": "United States", 
+            "longitude": -121.41111539400001, 
+            "state": "CA", 
+            "street": "2293 Arden Way", 
+            "latitude": 38.596379405599997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "111643722207020", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Citrus Heights", 
+            "zip": "95621-4715", 
+            "country": "United States", 
+            "longitude": -121.32109353600001, 
+            "state": "CA", 
+            "street": "6131 Greenback Ln", 
+            "latitude": 38.6798544699
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "117791701570622", 
+          "category_list": [
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }, 
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Santa Rosa", 
+            "zip": "95403-3503", 
+            "country": "United States", 
+            "longitude": -122.72742308709, 
+            "state": "CA", 
+            "street": "1004 Steele Ln", 
+            "latitude": 38.459540878043001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "109503922422225", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Lafayette", 
+            "zip": "94549-3905", 
+            "country": "United States", 
+            "longitude": -122.10946980200001, 
+            "state": "CA", 
+            "street": "3407 Mt Diablo Blvd", 
+            "latitude": 37.893601698499999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru Restaurants", 
+          "id": "117783048248519", 
+          "category_list": [
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "San Mateo", 
+            "zip": "94401-3302", 
+            "country": "United States", 
+            "longitude": -122.32045246205, 
+            "state": "CA", 
+            "street": "555 E 3rd Ave", 
+            "latitude": 37.567117987793999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "102205426489384", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85710-1650", 
+            "country": "United States", 
+            "longitude": -110.82328683999999, 
+            "state": "AZ", 
+            "street": "7910 E Speedway Blvd", 
+            "latitude": 32.2350125002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "120176737993612", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fair Oaks", 
+            "zip": "95628-2503", 
+            "country": "United States", 
+            "longitude": -121.261694498, 
+            "state": "CA", 
+            "street": "8100 Greenback Ln", 
+            "latitude": 38.678233597400002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "117830644898969", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Roseville", 
+            "zip": "95678-2802", 
+            "country": "United States", 
+            "longitude": -121.2752, 
+            "state": "CA", 
+            "street": "1100 Douglas Blvd", 
+            "latitude": 38.743724999999998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "118080061542667", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85712-4634", 
+            "country": "United States", 
+            "longitude": -110.89463000000001, 
+            "state": "AZ", 
+            "street": "4610 E Speedway Blvd", 
+            "latitude": 32.235821000000001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "119915944692413", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85716-2844", 
+            "country": "United States", 
+            "longitude": -110.92192799999999, 
+            "state": "AZ", 
+            "street": "3326 E Grant Rd", 
+            "latitude": 32.250140999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "111670572201511", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85711-3507", 
+            "country": "United States", 
+            "longitude": -110.89685799999999, 
+            "state": "AZ", 
+            "street": "4455 E Broadway Blvd", 
+            "latitude": 32.221893000000001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "105976159444434", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fresno", 
+            "zip": "93710-8206", 
+            "country": "United States", 
+            "longitude": -119.73579376402, 
+            "state": "CA", 
+            "street": "3025 E Shaw Ave", 
+            "latitude": 36.808198652694998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack in the Box - Drive Thru", 
+          "id": "233133436700033", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Sacramento", 
+            "zip": "95822", 
+            "country": "United States", 
+            "longitude": -121.499227831, 
+            "state": "CA", 
+            "street": "", 
+            "latitude": 38.520101075699998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "117046504980794", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85715-5311", 
+            "country": "United States", 
+            "longitude": -110.84206399999999, 
+            "state": "AZ", 
+            "street": "7031 E Tanque Verde Rd", 
+            "latitude": 32.251255
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "111507678884227", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Petaluma", 
+            "zip": "94954-6516", 
+            "country": "United States", 
+            "longitude": -122.66981978299999, 
+            "state": "CA", 
+            "street": "1401 N Mcdowell Blvd", 
+            "latitude": 38.275449263900001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "109347315772093", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85020-2918", 
+            "country": "United States", 
+            "longitude": -112.064697, 
+            "state": "AZ", 
+            "street": "710 E Dunlap Ave", 
+            "latitude": 33.567898
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "113484638681625", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85710-4013", 
+            "country": "United States", 
+            "longitude": -110.807762, 
+            "state": "AZ", 
+            "street": "8665 E Broadway Blvd", 
+            "latitude": 32.221428000000003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "115764948446507", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tempe", 
+            "zip": "85282-5820", 
+            "country": "United States", 
+            "longitude": -111.90897699999999, 
+            "state": "AZ", 
+            "street": "3401 S Mcclintock Dr", 
+            "latitude": 33.391706999999997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack in the Box drive thru", 
+          "id": "118444428241774", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85014", 
+            "country": "United States", 
+            "longitude": -112.06480591, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 33.530976819999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack in the Box Drive Thru", 
+          "id": "169042943137766", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Denton", 
+            "zip": "76201", 
+            "country": "United States", 
+            "longitude": -97.135468333332994, 
+            "state": "TX", 
+            "street": "", 
+            "latitude": 33.231167916666998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack in the Box Drive Thru", 
+          "id": "195562253809221", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "San Antonio", 
+            "zip": "78240", 
+            "country": "United States", 
+            "longitude": -98.568955000000003, 
+            "state": "TX", 
+            "street": "", 
+            "latitude": 29.530187000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "111533938884649", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Davis", 
+            "zip": "95616-4119", 
+            "country": "United States", 
+            "longitude": -121.73975200312999, 
+            "state": "CA", 
+            "street": "337 G St", 
+            "latitude": 38.545807021923999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "114435481913893", 
+          "category_list": [
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }, 
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "San Leandro", 
+            "zip": "94577-3555", 
+            "country": "United States", 
+            "longitude": -122.15785869457, 
+            "state": "CA", 
+            "street": "780 Marina Blvd", 
+            "latitude": 37.714616096416997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "109485522423138", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Sacramento", 
+            "zip": "95838-2624", 
+            "country": "United States", 
+            "longitude": -121.45645206349, 
+            "state": "CA", 
+            "street": "4128 Norwood Ave", 
+            "latitude": 38.643407174516
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "111507888881011", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Cottonwood", 
+            "zip": "86326-4636", 
+            "country": "United States", 
+            "longitude": -112.001993563, 
+            "state": "AZ", 
+            "street": "1180 S State Route 260", 
+            "latitude": 34.7182769351
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "115137938505982", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Santa Clara", 
+            "zip": "95050-3925", 
+            "country": "United States", 
+            "longitude": -121.94655249944999, 
+            "state": "CA", 
+            "street": "911 El Camino Real", 
+            "latitude": 37.354960993069
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "108127525895856", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }, 
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Pleasant Hill", 
+            "zip": "94523-3304", 
+            "country": "United States", 
+            "longitude": -122.06055735964, 
+            "state": "CA", 
+            "street": "1817 Contra Costa Blvd", 
+            "latitude": 37.951280307278999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "121378644539472", 
+          "category_list": [
+            {
+              "id": "187425207958280", 
+              "name": "Burger Restaurant"
+            }, 
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85014-4610", 
+            "country": "United States", 
+            "longitude": -112.06475229500001, 
+            "state": "AZ", 
+            "street": "4119 N 7th St", 
+            "latitude": 33.495504014600002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "114962535189093", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "San Jose", 
+            "zip": "95118-2003", 
+            "country": "United States", 
+            "longitude": -121.87617233100001, 
+            "state": "CA", 
+            "street": "4602 Almaden Expy", 
+            "latitude": 37.262571553299999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-Box Drive-Thru", 
+          "id": "116092691744192", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tulare", 
+            "zip": "93274-4219", 
+            "country": "United States", 
+            "longitude": -119.34270441399001, 
+            "state": "CA", 
+            "street": "444 E Tulare Ave", 
+            "latitude": 36.208830493348003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "116173981736935", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Pleasanton", 
+            "zip": "94566-5542", 
+            "country": "United States", 
+            "longitude": -121.874931, 
+            "state": "CA", 
+            "street": "4295 Valley Ave", 
+            "latitude": 37.677078000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "113352642020691", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Fresno", 
+            "zip": "93703-2110", 
+            "country": "United States", 
+            "longitude": -119.79021632752, 
+            "state": "CA", 
+            "street": "2124 N Blackstone Ave", 
+            "latitude": 36.770299385963
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "114259158598445", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85711-7115", 
+            "country": "United States", 
+            "longitude": -110.87462379599999, 
+            "state": "AZ", 
+            "street": "1195 S Craycroft Rd", 
+            "latitude": 32.207329418900002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "117895951556036", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85053-2706", 
+            "country": "United States", 
+            "longitude": -112.14859454499999, 
+            "state": "AZ", 
+            "street": "4151 W Bell Rd", 
+            "latitude": 33.639116610499997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "115926858429069", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Dublin", 
+            "zip": "94568-2029", 
+            "country": "United States", 
+            "longitude": -121.92692093300001, 
+            "state": "CA", 
+            "street": "7265 Village Pkwy", 
+            "latitude": 37.711095416600003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "114303128594114", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85713-6103", 
+            "country": "United States", 
+            "longitude": -110.96792363500001, 
+            "state": "AZ", 
+            "street": "3397 S 6th Ave", 
+            "latitude": 32.185281323600002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "117515718267134", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85711-5333", 
+            "country": "United States", 
+            "longitude": -110.907902647, 
+            "state": "AZ", 
+            "street": "3950 E 22nd St", 
+            "latitude": 32.2066627369
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "118409368174266", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tempe", 
+            "zip": "85281-3610", 
+            "country": "United States", 
+            "longitude": -111.93975729899999, 
+            "state": "AZ", 
+            "street": "721 S Mill Ave", 
+            "latitude": 33.422663312200001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "113314228698771", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Citrus Heights", 
+            "zip": "95610", 
+            "country": "United States", 
+            "longitude": -121.272145882, 
+            "state": "CA", 
+            "street": "7801 Sunrise Blvd", 
+            "latitude": 38.707896097999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "115960495090831", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tempe", 
+            "zip": "85282-3656", 
+            "country": "United States", 
+            "longitude": -111.940168089, 
+            "state": "AZ", 
+            "street": "3232 S Mill Ave", 
+            "latitude": 33.394739640300003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack in the Box Drive Thru", 
+          "id": "208698169166995", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Long Beach", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -118.176517934, 
+            "state": "CA", 
+            "street": "", 
+            "latitude": 33.7897080137
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "114131838614874", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85204-4922", 
+            "country": "United States", 
+            "longitude": -111.821915902, 
+            "state": "AZ", 
+            "street": "440 E Southern Ave", 
+            "latitude": 33.393670464000003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "113368772020020", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85213-9304", 
+            "country": "United States", 
+            "longitude": -111.768513071, 
+            "state": "AZ", 
+            "street": "2846 E Main St", 
+            "latitude": 33.415813097300003
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The Box Drive-Thru", 
+          "id": "111892155512728", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85202-4823", 
+            "country": "United States", 
+            "longitude": -111.87220000000001, 
+            "state": "AZ", 
+            "street": "1860 W Southern Ave", 
+            "latitude": 33.393493999999997
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "117795261579690", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85719-4440", 
+            "country": "United States", 
+            "longitude": -110.957039808, 
+            "state": "AZ", 
+            "street": "934 E Speedway Blvd", 
+            "latitude": 32.235778532099999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack in the box drive-thrup", 
+          "id": "183566991688756", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Stockton", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -121.22117382, 
+            "state": "CA", 
+            "street": "", 
+            "latitude": 37.903481901399999
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Jack In the Box Drive Thru Restaurants", 
+          "id": "171648722879224", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Ballwin", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -90.560715545799994, 
+            "state": "MO", 
+            "street": "", 
+            "latitude": 38.5925198873
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack In The Box Drive-thru window", 
+          "id": "188254264541002", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Folsom", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -121.152800918, 
+            "state": "CA", 
+            "street": "", 
+            "latitude": 38.6694771051
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Jack-In-The-Box Drive-Thru", 
+          "id": "111749485529601", 
+          "category_list": [
+            {
+              "id": "192803624072087", 
+              "name": "Fast Food Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85719-1032", 
+            "country": "United States", 
+            "longitude": -110.960581088, 
+            "state": "AZ", 
+            "street": "4450 N 1st Ave", 
+            "latitude": 32.287547785599997
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Courtney Village Apartments", 
+    "business_id": "bVRoCoXu2jIyqbZRT_isWw", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=139003600376"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Courtney Village Apartments", 
+          "id": "139003600376", 
+          "category_list": [
+            {
+              "id": "192625037432720", 
+              "name": "Real Estate Service"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85008", 
+            "country": "United States", 
+            "longitude": -111.97615005900001, 
+            "state": "AZ", 
+            "street": "4848 E. Roosevelt Street", 
+            "latitude": 33.458934447899999
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Famous Sam's Restaurant & Sports Bar", 
+    "business_id": "0wK--zW6Bgqgvnob8Qc77g", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=211405112249039"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's", 
+          "id": "168841843154472", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }, 
+            {
+              "id": "218693881483234", 
+              "name": "Pub"
+            }, 
+            {
+              "id": "110290705711626", 
+              "name": "Bar"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85704", 
+            "country": "United States", 
+            "longitude": -110.97330626927, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 32.352695307406002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's Restaurant & Bar", 
+          "id": "113524622010929", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }, 
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85714-1825", 
+            "country": "United States", 
+            "longitude": -110.94099104274, 
+            "state": "AZ", 
+            "street": "2048 E Irvington Rd", 
+            "latitude": 32.162779852615998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's Restaurant & Bar", 
+          "id": "111874078843240", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }, 
+            {
+              "id": "110290705711626", 
+              "name": "Bar"
+            }, 
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85712-3314", 
+            "country": "United States", 
+            "longitude": -110.90837626566, 
+            "state": "AZ", 
+            "street": "3933 E Pima St", 
+            "latitude": 32.243902420338998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's Restaurant & Bar", 
+          "id": "100892929955211", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }, 
+            {
+              "id": "233804719972590", 
+              "name": "Bar & Grill"
+            }, 
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Sierra Vista", 
+            "zip": "85635-2711", 
+            "country": "United States", 
+            "longitude": -110.27546273086, 
+            "state": "AZ", 
+            "street": "2239 E Fry Blvd", 
+            "latitude": 31.555682246117001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's Cardinal & Valencia", 
+          "id": "182646848446100", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }, 
+            {
+              "id": "200600219953504", 
+              "name": "Shopping & Retail"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85746", 
+            "country": "United States", 
+            "longitude": -111.00440238900001, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 32.141984594
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's", 
+          "id": "228310813862379", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Tucson", 
+            "zip": "85711", 
+            "country": "United States", 
+            "longitude": -110.875561744, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 32.221568722000001
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's", 
+          "id": "111418808892325", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Glendale", 
+            "zip": "85308-3868", 
+            "country": "United States", 
+            "longitude": -112.18187500000001, 
+            "state": "AZ", 
+            "street": "5696 W Bell Rd", 
+            "latitude": 33.639006999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's", 
+          "id": "113628281999665", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Bullhead City", 
+            "zip": "86442-7302", 
+            "country": "United States", 
+            "longitude": -114.59304, 
+            "state": "AZ", 
+            "street": "1855 Highway 95", 
+            "latitude": 35.119987000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sams's Mesa", 
+          "id": "268510403978", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85204", 
+            "country": "United States", 
+            "longitude": -111.77271299957, 
+            "state": "AZ", 
+            "street": "2730 E Baseline", 
+            "latitude": 33.379595715991002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's Restaurant & Sports Bar", 
+          "id": "109684495734368", 
+          "category_list": [
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85210-3064", 
+            "country": "United States", 
+            "longitude": -111.861, 
+            "state": "AZ", 
+            "street": "1930 S Alma School Rd", 
+            "latitude": 33.379874999999998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Famous Sam's Restaurant & Sports Bar", 
+          "id": "111276525571825", 
+          "category_list": [
+            {
+              "id": "192831537402299", 
+              "name": "Family Style Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85024-2997", 
+            "country": "United States", 
+            "longitude": -112.06482800000001, 
+            "state": "AZ", 
+            "street": "718 E Union Hills Dr Ste 2", 
+            "latitude": 33.654995999999997
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Uncle Sam's Famous BBQ", 
+          "id": "319532138184718", 
+          "category_list": [
+            {
+              "id": "150534008338515", 
+              "name": "Barbecue Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Burnham", 
+            "zip": "60633", 
+            "country": "United States", 
+            "longitude": -87.561406000000005, 
+            "state": "IL", 
+            "street": "2218 East State Street", 
+            "latitude": 41.630217000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "The Famous Sam's Chop House", 
+          "id": "414093568621348", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Manchester", 
+            "zip": "", 
+            "country": "United Kingdom", 
+            "longitude": -2.2443690566500001, 
+            "state": "", 
+            "street": "", 
+            "latitude": 53.481477473200002
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sam's Famous Subs", 
+          "id": "317145621638101", 
+          "category_list": [
+            {
+              "id": "188296324525457", 
+              "name": "Sandwich Shop"
+            }
+          ], 
+          "location": {
+            "city": "Mesa", 
+            "zip": "85208", 
+            "country": "United States", 
+            "longitude": -111.68345600000001, 
+            "state": "AZ", 
+            "street": "6807 E Broadwa Rd", 
+            "latitude": 33.408130999999997
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Bud And Christine's  Famous Sam's", 
+          "id": "144536752244561", 
+          "category_list": [
+            {
+              "id": "273819889375819", 
+              "name": "Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Payson", 
+            "zip": "85541", 
+            "country": "United States", 
+            "longitude": -111.36196, 
+            "state": "AZ", 
+            "street": "307 sS Hyw 87", 
+            "latitude": 34.060116000000001
+          }
+        }, 
+        {
+          "category": "Restaurant/cafe", 
+          "name": "Sam's World Famous Steak Sandwiches", 
+          "id": "211405112249039", 
+          "category_list": [
+            {
+              "id": "149803325077018", 
+              "name": "American Restaurant"
+            }
+          ], 
+          "location": {
+            "city": "Lakewood", 
+            "zip": "90712", 
+            "country": "United States", 
+            "longitude": -118.155629, 
+            "state": "CA", 
+            "street": "3205 Carson Street", 
+            "latitude": 33.832751999999999
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Arcadia Montessori", 
+    "business_id": "K2-yYATtXXb0V21zHbaHGw", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=130255920352273"
+      }, 
+      "data": [
+        {
+          "category": "Education", 
+          "name": "Arcadia Montessori", 
+          "id": "296935773738806", 
+          "category_list": [
+            {
+              "id": "151676848220295", 
+              "name": "Education"
+            }
+          ], 
+          "location": {
+            "city": "Phoenix", 
+            "zip": "85008", 
+            "country": "United States", 
+            "longitude": -111.971107, 
+            "state": "AZ", 
+            "street": "5115 E. Virginia", 
+            "latitude": 33.476039999999998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Arcadia Montessori School", 
+          "id": "139524372750343", 
+          "category_list": [
+            {
+              "id": "180551801986954", 
+              "name": "Preschool"
+            }, 
+            {
+              "id": "176831012360626", 
+              "name": "Professional Services"
+            }
+          ], 
+          "location": {
+            "city": "Tacoma", 
+            "zip": "98407", 
+            "country": "United States", 
+            "longitude": -122.52108, 
+            "state": "WA", 
+            "street": "6312 N. 30th", 
+            "latitude": 47.274267999999999
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Montessori School", 
+          "id": "152720588102706", 
+          "category_list": [
+            {
+              "id": "180551801986954", 
+              "name": "Preschool"
+            }, 
+            {
+              "id": "365182493518892", 
+              "name": "School"
+            }, 
+            {
+              "id": "181811248521973", 
+              "name": "Child Care"
+            }
+          ], 
+          "location": {
+            "city": "Arcadia", 
+            "zip": "91006-4013", 
+            "country": "United States", 
+            "longitude": -118.030563, 
+            "state": "CA", 
+            "street": "1406 S Santa Anita Ave", 
+            "latitude": 34.123832999999998
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Wonder Years Montessori School", 
+          "id": "155401604496944", 
+          "category_list": [
+            {
+              "id": "365182493518892", 
+              "name": "School"
+            }
+          ], 
+          "location": {
+            "city": "Arcadia", 
+            "zip": "91007-8513", 
+            "country": "United States", 
+            "longitude": -118.036209, 
+            "state": "CA", 
+            "street": "141 Las Tunas Dr", 
+            "latitude": 34.108044
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Amtra Montessori Christian Preschool", 
+          "id": "130255920352273", 
+          "category_list": [
+            {
+              "id": "151676848220295", 
+              "name": "Education"
+            }
+          ], 
+          "location": {
+            "city": "Arcadia", 
+            "zip": "", 
+            "country": "United States", 
+            "longitude": -81.869805600000007, 
+            "state": "FL", 
+            "street": "", 
+            "latitude": 27.207827399999999
+          }
+        }
+      ]
+    }
+  }, 
+  {
+    "business_name": "Affiliated Pediatric Dentistry & Orthodontics P C", 
+    "business_id": "P-VUqVXFRZ_8-2e24C6O6w", 
+    "fb_pages": {
+      "paging": {
+        "next": "https://graph.facebook.com/search?type=place&access_token=229546593895315|yPLlHqq6YvDLIH4nL0kjJtIFSlU&limit=5000&offset=5000&__after_id=153004624729598"
+      }, 
+      "data": [
+        {
+          "category": "Local business", 
+          "name": "Affiliated Pediatric Dentistry and Orthodontics", 
+          "id": "152309593384", 
+          "category_list": [
+            {
+              "id": "174187662626299", 
+              "name": "Dentist"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85254", 
+            "country": "United States", 
+            "longitude": -111.93415319079, 
+            "state": "AZ", 
+            "street": "6868 E Becker Ln Ste 101", 
+            "latitude": 33.583660575444
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Affiliated Pediatric Dentistry of Nepa", 
+          "id": "134657053251747", 
+          "category_list": [
+            {
+              "id": "174187662626299", 
+              "name": "Dentist"
+            }
+          ], 
+          "location": {
+            "city": "Scranton", 
+            "zip": "18503-1221", 
+            "country": "United States", 
+            "longitude": -75.662711999999999, 
+            "state": "PA", 
+            "street": "313 Mulberry St", 
+            "latitude": 41.411861000000002
+          }
+        }, 
+        {
+          "category": "Local business", 
+          "name": "Affiliated Pediatric Dentistry & Orthodontics", 
+          "id": "153004624729598", 
+          "category_list": [
+            {
+              "id": "174187662626299", 
+              "name": "Dentist"
+            }
+          ], 
+          "location": {
+            "city": "Scottsdale", 
+            "zip": "85255", 
+            "country": "United States", 
+            "longitude": -111.92318332000001, 
+            "state": "AZ", 
+            "street": "", 
+            "latitude": 33.684844332946
+          }
+        }
+      ]
+    }
+  }
+]
